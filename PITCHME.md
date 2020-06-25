@@ -2,7 +2,8 @@
 
 ---
 
-## Sieve of Eratosthenes
+
+<!-- ## Sieve of Eratosthenes -->
 ![IMAGE](assets/img/SieveOfEratosthenes_start.png)
 
 +++
