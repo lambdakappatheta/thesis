@@ -21,3 +21,23 @@
 +++
 ## Sieve of Eratosthenes
 ![IMAGE](assets/img/SieveOfErastothenes_mark-3.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfErastothenes_find-5.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfErastothenes_mark-5.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfErastothenes_find-7.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfErastothenes_mark-7.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfErastothenes_find-11.jpg)
