@@ -3,7 +3,7 @@
 ---
 
 ## Sieve of Eratosthenes
-![IMAGE](assets/img/SieveOfEratosthenes_start.jpg)
+![IMAGE](assets/img/SieveOfEratosthenes_start.png)
 
 +++
 ## Sieve of Eratosthenes
