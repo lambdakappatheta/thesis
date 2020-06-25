@@ -3,5 +3,20 @@
 ---
 
 ## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfEratosthenes_start.jpg)
 
-![IMAGE](assets/img/Sieve_of_Eratosthenes_animation.gif)
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfEratosthenes_find-2.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfEratosthenes_mark-2.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfEratosthenes_find-3.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/SieveOfEratosthenes_mark-3.jpg)
