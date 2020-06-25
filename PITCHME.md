@@ -4,7 +4,9 @@
 
 
 <!-- ## Sieve of Eratosthenes -->
+@snap[north-east span-45]
 ![IMAGE](assets/img/SieveOfEratosthenes_start.png)
+@snapend
 
 +++
 ## Sieve of Eratosthenes
