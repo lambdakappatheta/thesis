@@ -101,10 +101,9 @@ find the first n primes
 Let's turn this into an online algorithm
 ceheck primality on the fly
 
-## @color[#29beb0](GO)
----?code=sieve.go
+---?code=sieve.go&lang=go
 @snap[north-east]
-![IMAGE](assets/img/gopher.png)
+## GO
 @snapend
 
 @[20-32]
