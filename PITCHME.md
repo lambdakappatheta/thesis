@@ -102,47 +102,12 @@ Let's turn this into an online algorithm
 ceheck primality on the fly
 
 ---?code=sieve.go
-@[20-30]
-@[5-10]
+@[19-32]
 @[11-18]
+@[20-32]
 
----
-@snap[midpoint span-100 text-06]
-```go zoom-14
-package main
-
-import "fmt"
-
-func Generate(ch chan<- int) {
-	for i := 2; ; i++ {
-		ch <- i
-	}
-}
-
-func Filter(in <-chan int, out chan<- int, prime int) {
-	for {
-		i := <-in
-		if i%prime != 0 {
-			out <- i
-		}
-	}
-}
-
-func main() {
-	ch := make(chan int)
-	go Generate(ch)
-	for i := 0; i < 10; i++ {
-		prime := <-ch
-		fmt.Println(prime)
-		ch1 := make(chan int)
-		go Filter(ch, ch1, prime)
-		ch = ch1
-	}
-}
-```
-
-@[20-30]
-@[5-10]
-@[11-18]
-
-@snapend
+---?code=rust-sieve-thread.rs
+@[1-4]
+@[14-26]
+@[6-12]
+@[28-45]
