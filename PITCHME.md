@@ -46,7 +46,7 @@
 ## Classic vs Concurrent
 @snapend
 
-@snap[west span-40]
+@snap[west span-40 text-center]
 classic sieve
 
 find all primes between 2 and x
