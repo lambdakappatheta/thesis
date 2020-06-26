@@ -103,7 +103,7 @@ ceheck primality on the fly
 
 ---?code=sieve.go
 
-@snap[north-east span-100 text-04 text-gray]
+@snap[span-100 text-04 text-gray]
 Live Code Presenting with Annotations                         
 @snapend
 
