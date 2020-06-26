@@ -8,7 +8,7 @@
 
 theme            : template
 
-theme-headline : [ "Raleway", "#5289F7", "none", "#5289F7", "100", "120", "35" ]
+theme-headline : [ "Raleway", "#5289F7", "none", "#5289F7", "100", "120", "55" ]
 theme-byline   : [ "Raleway", "#111111", "none", "#111111", "100", "110", "30" ]
 theme-text     : [ "Ubuntu", "#1C1C1C", "none", "#1C1C1C", "100", "100", "25" ]
 
