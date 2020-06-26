@@ -108,6 +108,6 @@ ceheck primality on the fly
 
 ---?code=rust-sieve-thread.rs
 @[1-4]
-@[14-26]
-@[6-12]
 @[28-45]
+@[6-12]
+@[14-26]
