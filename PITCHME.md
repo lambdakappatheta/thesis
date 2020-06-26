@@ -45,11 +45,11 @@
 ## Concurrent Sieve of Eratosthenes
 @snapend
 
-@snap[fragment]
+@snap[fragment image-left]
 ![IMAGE](assets/img/ConcurrentSieve_2-3.jpg)
 @snapend
 
-@snap[fragment]
+@snap[fragment image-left]
 ![IMAGE](assets/img/ConcurrentSieve_2-3-5.jpg)
 @snapend
 
