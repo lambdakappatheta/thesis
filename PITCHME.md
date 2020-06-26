@@ -121,6 +121,13 @@ ceheck primality on the fly
 @[14-26]
 
 ---
+## Results
+
+| 	|GO 	|Rust 	|
+|-------|-------|-------|
+|100 	|5 	|50 	|
+|1000 	|7 	|70 	|
+---
 @snap[north]
 ## Results
 @snapend
