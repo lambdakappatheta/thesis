@@ -41,18 +41,16 @@
 ![IMAGE](assets/img/SieveOfErastothenes_find-11.jpg)
 
 ---
-@snap[span-100]
+@snap[north span-100]
 ## Concurrent Sieve of Eratosthenes
 @snapend
 
-@snap[south]
 @snap[fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3.jpg)
 @snapend
 
 @snap[fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3-5.jpg)
-@snapend
 @snapend
 
 ---
