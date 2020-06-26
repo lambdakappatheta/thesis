@@ -103,7 +103,7 @@ ceheck primality on the fly
 
 ---?code=sieve.go
 @snap[north-east]
-## Go
+@color[blue](## Go)
 @snapend
 
 @[20-32]
