@@ -111,6 +111,9 @@ ceheck primality on the fly
 @[11-18]
 
 ---?code=rust-sieve-thread.rs
+@snap[north-east]
+## Rust
+@snapend
 @[1-4]
 @[28-45]
 @[6-12]
