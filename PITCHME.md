@@ -107,6 +107,7 @@ ceheck primality on the fly
 @[11-18]
 
 ---
+@snap[midpoint span-100]
 ```go zoom-14
 package main
 
@@ -143,3 +144,5 @@ func main() {
 @[20-30]
 @[5-10]
 @[11-18]
+
+@snapend
