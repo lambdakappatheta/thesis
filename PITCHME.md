@@ -2,7 +2,6 @@
 
 ---
 
-
 ## Sieve of Eratosthenes
 ![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
 
@@ -41,3 +40,16 @@
 +++
 ## Sieve of Eratosthenes
 ![IMAGE](assets/img/SieveOfErastothenes_find-11.jpg)
+
+---
+
+@snap[west]
+classic sieve
+
+find all primes between 2 and x
+@snapend
+
+---
+
+Let's turn this into an online algorithm
+ceheck primality on the fly
