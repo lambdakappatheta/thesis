@@ -106,6 +106,7 @@ ceheck primality on the fly
 ## GO
 @snapend
 
+@[3]
 @[20-32]
 @[5-9]
 @[11-18]
