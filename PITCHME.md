@@ -129,7 +129,6 @@ ceheck primality on the fly
 |1000 	|180 ms	|2.25 s	|
 
 @snap[fragment]
-Conclusion
 Rust is about one magnitude slower than GO
 @snapend
 ---
