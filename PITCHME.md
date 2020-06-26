@@ -123,7 +123,7 @@ ceheck primality on the fly
 ---
 ## Results
 
-<br><br>
+<br>
 
 | 	|GO 	|Rust 	|
 |-------|-------|-------|
