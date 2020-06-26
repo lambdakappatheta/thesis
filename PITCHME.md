@@ -2,8 +2,10 @@
 
 ---
 
+@snap[north]
 ## Sieve of Eratosthenes
-![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
+![](assets/img/SieveOfErastothenes_start.jpg)
+@snapend
 
 +++
 ## Sieve of Eratosthenes
