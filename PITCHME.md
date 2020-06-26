@@ -107,7 +107,7 @@ ceheck primality on the fly
 @[11-18]
 
 ---
-@snap[midpoint span-100]
+@snap[midpoint span-100 text-06]
 ```go zoom-14
 package main
 
