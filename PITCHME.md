@@ -45,7 +45,7 @@
 ## Concurrent Sieve of Eratosthenes
 @snapend
 
-@snap[fragment]
+@snap[west fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3.jpg)
 @snapend
 
