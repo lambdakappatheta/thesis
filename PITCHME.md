@@ -43,13 +43,13 @@
 
 ---
 
-@snap[west]
+@snap[west span-40]
 classic sieve
 
 find all primes between 2 and x
 @snapend
 
-@snap[east]
+@snap[east span-40]
 concurrent sieve
 
 find the first n primes
