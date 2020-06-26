@@ -121,7 +121,9 @@ ceheck primality on the fly
 @[14-26]
 
 ---
+@snap[north]
 ## Results
+@snapend
 
 | 	|GO 	|Rust 	|
 |-------|-------|-------|
