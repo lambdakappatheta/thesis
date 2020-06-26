@@ -42,7 +42,7 @@
 ![IMAGE](assets/img/SieveOfErastothenes_find-11.jpg)
 
 ---
-@snap[north]
+@snap[north text-10]
 ## classic vs concurrent
 @snapend
 
