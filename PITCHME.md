@@ -49,7 +49,7 @@
 @snap[west span-40 text-center]
 ### Classic
 
-@ul[text-center list-fade-fragments]
+@ul[text-center]
 - find all primes between 2 and x
 - offline
 @ulend
