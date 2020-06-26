@@ -123,4 +123,7 @@ ceheck primality on the fly
 ---
 ## Results
 
-@table[](go-sieve_vs_rust-sieve-thread.csv)
+| 	|GO 	|Rust 	|
+|-------|-------|-------|
+|100 	|5 	|50 	|
+|1000 	|7 	|70 	|
