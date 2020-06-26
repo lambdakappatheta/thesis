@@ -103,12 +103,12 @@ ceheck primality on the fly
 
 ---?code=sieve.go
 
-@snap[south span-100]
-@[1](Socket.IO enables real-time, bidirectional, event-based communication.)
-@[2,3](Tweet Stream is node module that connects to the public twitter stream.)
-@[5-10](To process interesting Tweets, simply register a custom handler.)
-@[11-18](To process interesting Tweets, simply register a custom handler.)
-@[20-30](To process interesting Tweets, simply register a custom handler.)
+@snap
+@[1]
+@[2,3]
+@[5-10]
+@[11-18]
+@[20-30]
 @snapend
 
 
