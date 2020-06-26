@@ -6,7 +6,7 @@
 ## Sieve of Eratosthenes
 @snapend
 
-@snap[south]
+@snap[midpoint]
 ![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
 @snapend
 
