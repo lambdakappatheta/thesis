@@ -7,7 +7,7 @@
 @snapend
 
 @snap[south]
-![](assets/img/SieveOfErastothenes_start.jpg)
+![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
 @snapend
 
 +++
