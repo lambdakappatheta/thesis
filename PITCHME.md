@@ -107,7 +107,7 @@ ceheck primality on the fly
 @[11-18]
 
 ---
-```go
+```go zoom-14
 package main
 
 import "fmt"
