@@ -130,6 +130,6 @@ ceheck primality on the fly
 
 @snap[fragment]
 <br>
-Rust is about one magnitude slower than GO
+Rust is about one magnitude **slower** than GO
 @snapend
 ---
