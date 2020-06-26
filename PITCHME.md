@@ -59,7 +59,7 @@
 
 ---
 @snap[north-west]
-## Concurrent Sieve of Eratosthenes
+## Concurrent Sieve
 @snapend
 
 @snap[west]
