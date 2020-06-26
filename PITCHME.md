@@ -46,6 +46,7 @@
 @snapend
 
 @snap[south-west]
+
 @snap[fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3.jpg)
 @snapend
@@ -53,6 +54,19 @@
 @snap[fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3-5.jpg)
 @snapend
+
+@snapend
+
+---
+@snap[span-100]
+## Concurrent Sieve of Eratosthenes
+@snapend
+
+@snap[south-west]
+
+@img[fragment position=left](assets/img/ConcurrentSieve_2-3.jpg)
+@img[fragment](assets/img/ConcurrentSieve_2-3-5.jpg)
+
 @snapend
 
 ---
