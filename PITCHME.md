@@ -49,6 +49,11 @@ classic sieve
 find all primes between 2 and x
 @snapend
 
+@snap[east]
+concurrent sieve
+
+find the first n primes
+@snapend
 ---
 
 Let's turn this into an online algorithm
