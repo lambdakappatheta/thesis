@@ -127,4 +127,9 @@ ceheck primality on the fly
 |-------|-------|-------|
 |100 	|2.5 ms	|35 ms 	|
 |1000 	|180 ms	|2.25 s	|
+
+@snap[fragment]
+Conclusion
+Rust is about one magnitude slower than GO
+@snapend
 ---
