@@ -50,7 +50,8 @@
 ### Classic
 
 @ul[list-spaced-bullets list-fade-fragments]
-find all primes between 2 and x
+- find all primes between 2 and x
+- offline
 @ulend
 @snapend
 
