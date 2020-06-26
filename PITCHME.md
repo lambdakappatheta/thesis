@@ -1,42 +1,8 @@
-# Hello
-Hello World
-
----
-# Hello
-
-Hello World
-
----
-## Hello
-Hello World
-
----
-## Hello
-
-Hello World
-
----
-### Hello
-Hello World
-
----
-### Hello
-
-Hello World
-
----
-
 ## Concurrent programming in Rust and Go
 
 ---
-
-@snap[north span-100]
 ## Sieve of Eratosthenes
-@snapend
-
-@snap[south]
 ![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
-@snapend
 
 +++
 ## Sieve of Eratosthenes
