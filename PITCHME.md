@@ -101,7 +101,7 @@ find the first n primes
 Let's turn this into an online algorithm
 ceheck primality on the fly
 
----?code=sieve.go&lang=go
+---?code=go-sieve.go&lang=go
 @snap[north-east]
 ## GO
 @snapend
@@ -111,7 +111,7 @@ ceheck primality on the fly
 @[5-9]
 @[11-18]
 
----?code=rust-sieve-thread.rs
+---?code=rust-sieve-thread.rs&lang=rust
 @snap[north-east]
 ## Rust
 @snapend
@@ -119,3 +119,8 @@ ceheck primality on the fly
 @[28-45]
 @[6-12]
 @[14-26]
+
+---
+## Results
+
+@table[](go-sieve_vs_rust-sieve-thread.csv)
