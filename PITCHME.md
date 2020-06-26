@@ -42,6 +42,7 @@
 ![IMAGE](assets/img/SieveOfErastothenes_find-11.jpg)
 
 ---
+## classic vs concurrent sieve
 
 @snap[west span-40]
 classic sieve
