@@ -5,7 +5,10 @@
 @snap[north span-100]
 ## Sieve of Eratosthenes
 @snapend
+
+@snap[south]
 ![](assets/img/SieveOfErastothenes_start.jpg)
+@snapend
 
 +++
 ## Sieve of Eratosthenes
