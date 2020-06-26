@@ -102,9 +102,9 @@ Let's turn this into an online algorithm
 ceheck primality on the fly
 
 ---?code=sieve.go
-@[19-32]
-@[11-18]
 @[20-32]
+@[5-9]
+@[11-18]
 
 ---?code=rust-sieve-thread.rs
 @[1-4]
