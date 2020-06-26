@@ -18,3 +18,6 @@ theme-text     : [ "Ubuntu", "#1C1C1C", "none", "#1C1C1C", "100", "100", "25" ]
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
 footnote : "Concurrent Programming in Rust and Go"
+
+code-line-numbers : true
+
