@@ -58,7 +58,7 @@
 @snapend
 
 ---
-@snap[span-100]
+@snap[north-west]
 ## Concurrent Sieve of Eratosthenes
 @snapend
 
