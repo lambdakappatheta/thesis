@@ -102,7 +102,10 @@ Let's turn this into an online algorithm
 ceheck primality on the fly
 
 ---?code=sieve.go
-@[1-32]
+@snap[north-east]
+## Go
+@snapend
+
 @[20-32]
 @[5-9]
 @[11-18]
