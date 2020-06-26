@@ -43,7 +43,7 @@
 
 ---
 @snap[north span-100]
-## classic vs concurrent
+## Classic vs Concurrent
 @snapend
 
 @snap[west span-40]
