@@ -6,7 +6,7 @@
 
 theme            : template
 
-theme-headline : [ "Raleway", "#5289F7", "none", "#5289F7", "100", "120", "25" ]
+theme-headline : [ "Raleway", "#5289F7", "none", "#5289F7", "100", "120", "5" ]
 
 layout           : top
 
