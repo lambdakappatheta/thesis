@@ -45,12 +45,14 @@
 ## Concurrent Sieve of Eratosthenes
 @snapend
 
-@snap[west fragment]
+@snap[south-west]
+@snap[fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3.jpg)
 @snapend
 
-@snap[west fragment]
+@snap[fragment]
 ![IMAGE](assets/img/ConcurrentSieve_2-3-5.jpg)
+@snapend
 @snapend
 
 ---
