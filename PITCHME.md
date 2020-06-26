@@ -102,10 +102,8 @@ Let's turn this into an online algorithm
 ceheck primality on the fly
 
 ---?code=sieve.go
-@[1]
-@[2,3]
+@[20-30]
 @[5-10]
 @[11-18]
-@[20-30]
 
 
