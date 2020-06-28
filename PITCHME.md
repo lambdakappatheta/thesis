@@ -151,14 +151,14 @@ Problem: You need to bake a cake and clean your room!
 @snapend
 
 @snap[south-west span-50]
-- bake the cake first
-- clean your room afterwards
+bake the cake first
+clean your room afterwards
 @snapend
 
 @snap[south-east span-50]
-- prepare the ingredients and put the cake in the oven
-- clean your room in the meantime
-- finish the cake
+prepare the ingredients and put the cake in the oven
+clean your room in the meantime
+finish the cake
 @snapend
 ---
 ---
