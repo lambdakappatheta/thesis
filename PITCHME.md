@@ -181,8 +181,9 @@ finish the cake
 ---
 @snap[north font-raleway-heavy text-blue text-22]
 Multitasking
-
-Problem:
+@snapend
+@snap[north]
+Problem: You need to bake a cake and clean your room!
 @snapend
 
 @ul[south-west span-50 text-center list-no-bullets]
