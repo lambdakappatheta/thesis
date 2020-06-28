@@ -134,7 +134,7 @@ Rust is about one magnitude **slower** than GO
 @snapend
 ---
 @snap[north span-100 text-6]
-## "Concurrency is not Parallelism"
+### "Concurrency is not Parallelism"
 @snapend
 
 @ul[list-spaced-bullets]
