@@ -8,6 +8,7 @@
 ## Sieve of Eratosthenes
 @snapend
 The classic version
+<br>
 @ul[list-no-bullets text-08]
 - Goal: @css[fragment](Find all the prime numbers between 2 and *x*)
 - <br>
