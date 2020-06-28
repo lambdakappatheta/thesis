@@ -147,12 +147,10 @@ Rust is about one magnitude **slower** than GO
 ---
 @snap[north]
 ## Multitasking
-@snapend
-@snap[north]
 Problem: You need to bake a cake and clean your room!
 @snapend
 
-@snap[south-west span-40]
+@snap[south-west span-40 list-spaced-bullets]
 @ul[text-08]
 - 1st solution:
 - bake the cake first
@@ -160,7 +158,7 @@ Problem: You need to bake a cake and clean your room!
 @ulend
 @snapend
 
-@snap[south-east span-60]
+@snap[south-east span-60 list-spaced-bullets]
 @ul[text-08]
 - 2nd solution:
 - prepare the ingredients and put the cake in the oven
