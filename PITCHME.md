@@ -133,9 +133,11 @@ ceheck primality on the fly
 Rust is about one magnitude **slower** than GO
 @snapend
 ---
-# "Concurrency is not Parallelism"
+# Concurrency is not Parallelism
 ---
-
+@snap[north-west text-Raleway]
+Concurreny
+@snapend
 
 
 
