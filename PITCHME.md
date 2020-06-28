@@ -1,7 +1,7 @@
 ## Concurrent programming in Rust and Go
 
 ---
-@snap[north span-100 text-9]
+@snap[north span-100 text-7]
 ## Sieve of Eratosthenes (seq)
 @snapend
 
