@@ -173,7 +173,7 @@ bake the cake first
 clean your room afterwards
 @snapend
 
-@snap[east span-50]
+@snap[east span-50 text-center]
 prepare the ingredients and put the cake in the oven
 clean your room in the meantime
 finish the cake
