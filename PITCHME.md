@@ -22,30 +22,11 @@ The classic version
 
 ---
 ## Sieve of Eratosthenes
-
 ![classic-empty](assets/img/classic/classic-empty.png)
 ![classic-2-find](assets/img/classic/classic-2-find.png)
 ![classic-2-mark](assets/img/classic/classic-2-mark.png)
 ![classic-3-find](assets/img/classic/classic-3-find.png)
 ![classic-3-mark](assets/img/classic/classic-3-mark.png)
-![classic-5-find](assets/img/classic/classic-5-find.png)
-
----
-## Sieve of Eratosthenes
-![classic-empty](assets/img/classic/classic-empty.png)
-
-+++
-## Sieve of Eratosthenes
-![classic-2-find](assets/img/classic/classic-2-find.png)
-![classic-2-mark](assets/img/classic/classic-2-mark.png)
-
-+++
-## Sieve of Eratosthenes
-![classic-3-find](assets/img/classic/classic-3-find.png)
-![classic-3-mark](assets/img/classic/classic-3-mark.png)
-
-+++
-## Sieve of Eratosthenes
 ![classic-5-find](assets/img/classic/classic-5-find.png)
 
 ---
