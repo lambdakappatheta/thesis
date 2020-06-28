@@ -1,6 +1,18 @@
 ## Concurrent programming in Rust and Go
 
 ---
+## Sieve of Eratosthenes (seq)
+
+@ul[list-no-bullets]
+- Goal:
+- Find the first *n* prime numbers
+- Algorithm:
+- Keep the primes found so far in an array *primes*
+- Consider all positive integers one by one starting from two
+- If a number *num* is not divisible by any of the primes found so far, then *num* is a prime
+- Add *num* to *primes* and continue until *n* primes have been found
+
+---
 ## Sieve of Eratosthenes
 ![seq3](assets/img/seq/seq3.png)
 
