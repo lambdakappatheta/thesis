@@ -147,19 +147,19 @@ Rust is about one magnitude **slower** than GO
 ---
 @snap[north]
 ## Multitasking
-Problem: You need to bake a cake and clean your room!
+Bake a cake and clean the kitchen!
 @snapend
 
-@snap[south-west span-50 text-center]
+@ul[south-west span-50 text-center list-no-bullets]
 bake the cake first
 clean your room afterwards
-@snapend
+@ulend
 
-@snap[south-east span-50]
+@ul[south-east span-50 text-center list-no-bullets]
 prepare the ingredients and put the cake in the oven
 clean your room in the meantime
 finish the cake
-@snapend
+@ulend
 
 
 
