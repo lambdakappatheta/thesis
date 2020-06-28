@@ -6,6 +6,10 @@
 
 +++
 ## Sieve of Eratosthenes
+![seq3-after](assets/img/seq/seq3-after.png)
+
++++
+## Sieve of Eratosthenes
 ![seq4](assets/img/seq/seq4.png)
 
 +++
@@ -14,11 +18,19 @@
 
 +++
 ## Sieve of Eratosthenes
+![seq5-after](assets/img/seq/seq5-after.png)
+
++++
+## Sieve of Eratosthenes
 ![seq6](assets/img/seq/seq6.png)
 
 +++
 ## Sieve of Eratosthenes
 ![seq7](assets/img/seq/seq7.png)
+
++++
+## Sieve of Eratosthenes
+![seq7-after](assets/img/seq/seq7-after.png)
 
 +++
 ## Sieve of Eratosthenes
@@ -31,6 +43,10 @@
 +++
 ## Sieve of Eratosthenes
 ![seq25](assets/img/seq/seq25.png)
+
++++
+## Sieve of Eratosthenes
+![seq25-after](assets/img/seq/seq25-after.png)
 
 ---
 ## Sieve of Eratosthenes
