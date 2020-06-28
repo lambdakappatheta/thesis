@@ -26,6 +26,8 @@ The classic version
 @snapend
 
 
+
+
 ![classic-empty](assets/img/classic/classic-empty.png)
 ![classic-2-find](assets/img/classic/classic-2-find.png)
 ![classic-2-mark](assets/img/classic/classic-2-mark.png)
