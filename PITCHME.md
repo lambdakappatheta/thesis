@@ -145,9 +145,10 @@ Rust is about one magnitude **slower** than GO
 - task switching
 @ulend
 ---
+@snap[north]
 ## Multitasking
-
 Problem: You need to bake a cake and clean your room!
+@snapend
 
 @snap[south-west span-45]
 @ul[text-08]
