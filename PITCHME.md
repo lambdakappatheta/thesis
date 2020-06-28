@@ -17,7 +17,7 @@ The classic version
 - Create an array containing all positive integers between 2 and *x*.
 - Consider each number in the array from smallest to largest.
 - **If the next number *num* is unmarked, then *num* is a prime**!
-- Also, mark all the multiples of *num* in the array!
+- Mark all the multiples of *num* in the array!
 - Repeat until all elements of the array have been considered.
 
 @ulend
