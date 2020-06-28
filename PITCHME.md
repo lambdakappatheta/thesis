@@ -25,6 +25,7 @@ The classic version
 ## Sieve of Eratosthenes
 ![classic-empty](assets/img/classic/classic-empty.png)
 
+
 +++
 ## Sieve of Eratosthenes
 ![classic-2-find](assets/img/classic/classic-2-find.png)
