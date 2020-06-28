@@ -11,7 +11,7 @@ The classic version
 
 <br>
 @ul[list-no-bullets text-08]
-- Goal: @css[fragment](Find all the prime numbers between 2 and *x* !)
+- Goal: @css[fragment](Find all the prime numbers between 2 and *x*)
 <br>
 - Algorithm:
 - Create an array containing all positive integers between 2 and *x*.
@@ -27,7 +27,7 @@ The classic version
 @snapend
 
 @ul[list-no-bullets text-08]
-- Goal: @css[fragment](Find the first *n* prime numbers!)
+- Goal: @css[fragment](Find the first *n* prime numbers)
 <br>
 - Algorithm:
 - Keep the primes found so far in an array *primes*.
