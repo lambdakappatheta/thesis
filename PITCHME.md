@@ -151,6 +151,23 @@ Problem: You need to bake a cake and clean your room!
 @snapend
 
 @snap[south-west list-spaced-bullets]
+- bake the cake first
+- clean your room afterwards
+@snapend
+
+@snap[south-east list-spaced-bullets]
+- prepare the ingredients and put the cake in the oven
+- clean your room in the meantime
+- finish the cake
+@snapend
+---
+---
+@snap[north]
+## Multitasking
+Problem: You need to bake a cake and clean your room!
+@snapend
+
+@snap[south-west list-spaced-bullets]
 @ul[text-08]
 - bake the cake first
 - clean your room afterwards
