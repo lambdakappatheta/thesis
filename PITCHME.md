@@ -4,9 +4,11 @@
 ## Sieve of Eratosthenes
 
 ---
+@snap[north span-100]
 ## Sieve of Eratosthenes
 
 The classic version
+@snapend
 
 @ul[list-no-bullets text-08]
 - Goal: @css[fragment](Find all the prime numbers between 2 and *x* !)
