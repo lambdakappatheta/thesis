@@ -7,6 +7,7 @@
 @snap[north span-100]
 ## Sieve of Eratosthenes
 The classic version
+<br>
 @snapend
 
 @ul[list-no-bullets text-08]
