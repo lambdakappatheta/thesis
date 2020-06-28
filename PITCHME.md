@@ -154,7 +154,7 @@ Rust is about one magnitude **slower** than GO
 
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-2.jpg)
 ---
-## "Concurrency vs Parallelism"
+## Concurrency vs Parallelism
 
 @ul[list-spaced-bullets]
 - **Concurrency** is the composition of independently executing processes
