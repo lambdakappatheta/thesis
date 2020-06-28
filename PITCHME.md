@@ -6,7 +6,6 @@
 ---
 @snap[north span-100]
 ## Sieve of Eratosthenes
-
 The classic version
 @snapend
 
