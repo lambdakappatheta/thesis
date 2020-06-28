@@ -179,8 +179,10 @@ clean your room in the meantime
 finish the cake
 @snapend
 ---
-@snap[north-west font-raleway-heavy text-blue text-22]
+@snap[north font-raleway-heavy text-blue text-22]
 Multitasking
+
+Problem:
 @snapend
 
 @ul[west span-50 text-center list-no-bullets]
