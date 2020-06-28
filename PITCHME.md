@@ -2,6 +2,14 @@
 
 ---
 ## Sieve of Eratosthenes
+![IMAGE](assets/img/seq/seq1.jpg)
+
++++
+## Sieve of Eratosthenes
+![IMAGE](assets/img/seq/seq2.jpg)
+
+---
+## Sieve of Eratosthenes
 ![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
 
 +++
@@ -132,14 +140,33 @@ ceheck primality on the fly
 <br>
 Rust is about one magnitude **slower** than GO
 @snapend
+
+
+
+
 ---
 # Concurrency is not Parallelism
+
+---
+
+---
+
+## Parallelism
+
+![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
+
+@ul[list-spaced-bullets]
+- only possible with hardware support (multiple cores, processors)
+- increase throughput
+@ulend
+
 ---
 ## Concurrency
 
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1TaskSwitching.jpg)
 
-@ul[list-spaced-bullets]
+similar 
+@ul[]
 - time-sharing
 - multitasking
 - task switching
@@ -214,16 +241,6 @@ Problem: You need to bake a cake and clean your room!
 - finish the cake
 @ulend
 @snapend
----
-## Parallelism
-
-![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
-
-@ul[list-spaced-bullets]
-- only possible with hardware support (multiple cores, processors)
-- increase throughput
-@ulend
-
 ---
 ## Concurrency and Parallelism
 
