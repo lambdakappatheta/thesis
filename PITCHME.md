@@ -139,7 +139,7 @@ Rust is about one magnitude **slower** than GO
 
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1TaskSwitching.jpg)
 
-@ul
+@ul[list-spaced-bullets]
 - time-sharing
 - multitasking
 - task switching
