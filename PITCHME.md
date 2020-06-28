@@ -150,7 +150,7 @@ Rust is about one magnitude **slower** than GO
 Problem: You need to bake a cake and clean your room!
 @snapend
 
-@snap[south-west span-45]
+@snap[west span-45]
 @ul[text-08]
 - 1st solution:
 - bake the cake first
@@ -158,7 +158,7 @@ Problem: You need to bake a cake and clean your room!
 @ulend
 @snapend
 
-@snap[south-east span-45]
+@snap[east span-45]
 @ul[text-08]
 - 2nd solution:
 - prepare the ingredients and put the cake in the oven
