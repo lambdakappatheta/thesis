@@ -135,9 +135,15 @@ Rust is about one magnitude **slower** than GO
 ---
 # Concurrency is not Parallelism
 ---
-@snap[north-west]
 ## Concurrency
-@snapend
+
+![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1TaskSwitching.jpg)
+
+@ul
+- time-sharing
+- multitasking
+- task switching
+@ulend
 
 
 
