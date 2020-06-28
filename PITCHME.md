@@ -166,3 +166,17 @@ Rust is about one magnitude **slower** than GO
 - **Parallelism** is about *doing* lots of things at once.
 @ulend
 
+---
+## Problem
+
+![IMAGE](assets/img/waza-slide12.jpg)
+---
+## Fine-grained concurrency
+
+![IMAGE](assets/img/waza-slide19.jpg)
+---
+## More parallelization
+
+![IMAGE](assets/img/waza-slide22.jpg)
+
+
