@@ -147,6 +147,8 @@ Rust is about one magnitude **slower** than GO
 ---
 @snap[north]
 ## Multitasking
+@snapend
+@snap[north]
 Problem: You need to bake a cake and clean your room!
 @snapend
 
