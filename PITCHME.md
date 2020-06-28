@@ -150,8 +150,8 @@ Rust is about one magnitude **slower** than GO
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
 
 @ul[list-spaced-bullets]
-- *real parallelism* is only possible with hardware support (with multiple cores)
-- the main benefit from *real parallelism* is increased throughput
+- only possible with hardware support (with multiple cores)
+- increase throughput
 @ulend
 
 ---
