@@ -136,8 +136,8 @@ Rust is about one magnitude **slower** than GO
 ## "Concurrency is not Parallelism"
 
 @ul
-**Concurrency** is the composition of independently executing processes
-**Parallelism** is the simultaneous execution of (possibly related) computations
+- **Concurrency** is the composition of independently executing processes
+- **Parallelism** is the simultaneous execution of (possibly related) computations
 @ulend
 
 **Concurrency** is about *dealing* with lots of things at once.
