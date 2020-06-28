@@ -135,8 +135,8 @@ Rust is about one magnitude **slower** than GO
 ---
 # Concurrency is not Parallelism
 ---
-@snap[north-west text-Raleway]
-Concurreny
+@snap[north-west]
+## Concurrency
 @snapend
 
 
