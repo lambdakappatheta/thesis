@@ -150,12 +150,12 @@ Rust is about one magnitude **slower** than GO
 Bake a cake and clean the kitchen!
 @snapend
 
-@snap[south-west span-50 text-center]
+@snap[south-west span-50 text-center fragment]
 bake the cake first
 clean your room afterwards
 @snapend
 
-@snap[south-east span-50 text-center]
+@snap[south-east span-50 text-center fragment]
 prepare the ingredients and put the cake in the oven
 clean your room in the meantime
 finish the cake
