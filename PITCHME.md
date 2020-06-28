@@ -1,8 +1,24 @@
 ## Concurrent programming in Rust and Go
 
 ---
-## Running example: Sieve of Eratosthenes
+## Sieve of Eratosthenes
 
+---
+## Sieve of Eratosthenes
+
+The classic version
+
+@ul[list-no-bullets text-08]
+- Goal: @css[fragment](Find all the prime numbers between 2 and *x*!)
+<br>
+- Algorithm:
+- Create an array containing all positive integers between 2 and *x*.
+- Consider each number in the array from smallest to largest.
+- *If the next number *num* is unmarked, then *num* is a prime.*!
+- Then, mark all the multiples of *num* in the array!
+- Repeat until all elements of the array have been considered.
+
+@ulend
 ---
 @snap[north span-100]
 ## Sieve of Eratosthenes
