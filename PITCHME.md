@@ -7,8 +7,7 @@
 
 @ul[list-no-bullets text-08]
 - Goal: @css[fragment](Find the first *n* prime numbers!)
-@ulend
-@ul[list-no-bullets text-08]
+<br>
 - Algorithm:
 - Keep the primes found so far in an array *primes*.
 - Consider all positive integers one by one starting from two.
