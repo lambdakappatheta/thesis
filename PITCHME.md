@@ -8,6 +8,30 @@
 ## Sieve of Eratosthenes
 ![seq4](assets/img/seq/seq4.png)
 
++++
+## Sieve of Eratosthenes
+![seq5](assets/img/seq/seq5.png)
+
++++
+## Sieve of Eratosthenes
+![seq6](assets/img/seq/seq6.png)
+
++++
+## Sieve of Eratosthenes
+![seq7](assets/img/seq/seq7.png)
+
++++
+## Sieve of Eratosthenes
+![seq8](assets/img/seq/seq8.png)
+
++++
+## Sieve of Eratosthenes
+![seq9](assets/img/seq/seq9.png)
+
++++
+## Sieve of Eratosthenes
+![seq25](assets/img/seq/seq25.png)
+
 ---
 ## Sieve of Eratosthenes
 ![IMAGE](assets/img/SieveOfErastothenes_start.jpg)
