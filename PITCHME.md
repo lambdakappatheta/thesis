@@ -150,7 +150,7 @@ Rust is about one magnitude **slower** than GO
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
 
 @ul[list-spaced-bullets]
-- only possible with hardware support (with multiple cores)
+- only possible with hardware support (multiple cores)
 - increase throughput
 @ulend
 
