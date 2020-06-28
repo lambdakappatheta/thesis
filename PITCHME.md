@@ -155,7 +155,7 @@ Bake a cake and clean your room!
 @css[fragment](clean your room afterwards)
 @snapend
 
-@snap[south-east span-50 text-center fragment]
+@snap[south-east span-50 text-center]
 @css[fragment](prepare the ingredients and put the cake in the oven)
 @css[fragment](clean your room in the meantime)
 @css[fragment](finish the cake)
