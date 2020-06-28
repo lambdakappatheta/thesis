@@ -133,7 +133,9 @@ ceheck primality on the fly
 Rust is about one magnitude **slower** than GO
 @snapend
 ---
+@snap[north span-100]
 ## "Concurrency is not Parallelism"
+@snapend
 
 @ul[list-spaced-bullets]
 - **Concurrency** is the composition of independently executing processes
