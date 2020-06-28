@@ -23,7 +23,7 @@ The classic version
 @snap[north span-100]
 ## Sieve of Eratosthenes
 @snapend
-
+<br>
 @ul[list-no-bullets text-08]
 - Goal: @css[fragment](Find the first *n* prime numbers)
 - <br>
