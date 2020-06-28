@@ -2,11 +2,11 @@
 
 ---
 ## Sieve of Eratosthenes
-![seq1](assets/img/seq/seq1.png)
+![seq3](assets/img/seq/seq3.png)
 
 +++
 ## Sieve of Eratosthenes
-![seq2](assets/img/seq/seq2.png)
+![seq4](assets/img/seq/seq4.png)
 
 ---
 ## Sieve of Eratosthenes
