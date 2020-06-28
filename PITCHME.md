@@ -12,6 +12,8 @@ The classic version
 <br>
 @ul[list-no-bullets text-08]
 - Goal: @css[fragment](Find all the prime numbers between 2 and *x*)
+@ulend
+@ul[list-no-bullets text-08]
 - Algorithm:
 - Create an array containing all positive integers between 2 and *x*.
 - Consider each number in the array from smallest to largest.
