@@ -11,6 +11,7 @@
 - Consider all positive integers one by one starting from two
 - If a number *num* is not divisible by any of the primes found so far, then *num* is a prime
 - Add *num* to *primes* and continue until *n* primes have been found
+@ulend
 
 ---
 ## Sieve of Eratosthenes
