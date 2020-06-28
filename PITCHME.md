@@ -164,7 +164,7 @@ finish the cake
 
 
 ---
-@snap[north-west font-raleway text-blue text-bold]
+@snap[north-west font-raleway text-blue text-bold text-40]
 Multitasking
 @snapend
 @snap[south-west font-ubuntu text-20]
