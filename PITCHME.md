@@ -24,7 +24,7 @@ The classic version
 @snap[north span-100]
 ## Sieve of Eratosthenes
 @snapend
-<br><br>
+<br>
 ![classic-empty](assets/img/classic/classic-empty.png)
 ![classic-2-find](assets/img/classic/classic-2-find.png)
 ![classic-2-mark](assets/img/classic/classic-2-mark.png)
