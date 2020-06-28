@@ -92,6 +92,16 @@ The classic version
 ## Sieve of Eratosthenes
 ![seq25](assets/img/seq/seq25.png)
 
+---?code=rust/sequential/src/lib.rs&lang=rust
+@snap[north-east]
+## Rust
+@snapend
+
+@[1]
+@[2]
+@[5, 23-24]
+@[7-21]
+
 ---
 @snap[span-100]
 ## Concurrent Sieve of Eratosthenes
