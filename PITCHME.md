@@ -21,7 +21,7 @@ The classic version
 
 @ulend
 
-+++
+---
 ## Sieve of Eratosthenes
 ![classic-empty](assets/img/classic/classic-empty.png)
 
