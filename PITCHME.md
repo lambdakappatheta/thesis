@@ -141,8 +141,8 @@ Rust is about one magnitude **slower** than GO
 @ulend
 
 @ul[list-spaced-bullets]
-**Concurrency** is about *dealing* with lots of things at once.
-**Parallelism** is about *doing* lots of things at once.
+- **Concurrency** is about *dealing* with lots of things at once.
+- **Parallelism** is about *doing* lots of things at once.
 @ulend
 
 
