@@ -154,12 +154,7 @@ Rust is about one magnitude **slower** than GO
 
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-2.jpg)
 ---
-
-
-
-@snap[north span-100 text-6]
-## "Concurrency is not Parallelism"
-@snapend
+## "Concurrency vs Parallelism"
 
 @ul[list-spaced-bullets]
 - **Concurrency** is the composition of independently executing processes
@@ -171,5 +166,3 @@ Rust is about one magnitude **slower** than GO
 - **Parallelism** is about *doing* lots of things at once.
 @ulend
 
-
-Source: https://blog.golang.org/waza-talk
