@@ -151,8 +151,8 @@ Bake a cake and clean your room!
 @snapend
 
 @snap[south-west span-50 text-center fragment]
-- bake the cake first
-- clean your room afterwards
+@css[fragment](bake the cake first)
+@css[fragment](clean your room afterwards)
 @snapend
 
 @snap[south-east span-50 text-center fragment]
