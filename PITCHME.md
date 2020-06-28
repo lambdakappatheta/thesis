@@ -151,10 +151,8 @@ Bake a cake and clean the kitchen!
 @snapend
 
 @snap[south-west span-50 text-center list-no-bullets]
-@ul
 - bake the cake first
 - clean your room afterwards
-@ulend
 @snap
 
 @ul[south-east span-50 text-center list-no-bullets]
