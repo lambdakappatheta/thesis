@@ -145,12 +145,29 @@ Rust is about one magnitude **slower** than GO
 - task switching
 @ulend
 ---
+## Multitasking
+
+Problem: You need to bake a cake and clean your room!
+
+@ul
+- 1st solution:
+- bake the cake first
+- clean your room afterwards
+@ulend
+
+@ul
+- 2nd solution:
+- prepare the ingredients and put the cake in the oven
+- clean your room in the meantime
+- finish the cake
+@ulend
+---
 ## Parallelism
 
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
 
 @ul[list-spaced-bullets]
-- only possible with hardware support (multiple cores)
+- only possible with hardware support (multiple cores, processors)
 - increase throughput
 @ulend
 
