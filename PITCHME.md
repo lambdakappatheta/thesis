@@ -167,8 +167,16 @@ finish the cake
 @snap[north-west font-raleway-heavy text-blue text-22]
 Multitasking
 @snapend
-@snap[south-west font-ubuntu text-20]
-Multitasking
+
+@snap[west span-50 text-center]
+bake the cake first
+clean your room afterwards
+@snapend
+
+@snap[east span-50]
+prepare the ingredients and put the cake in the oven
+clean your room in the meantime
+finish the cake
 @snapend
 ---
 @snap[north]
