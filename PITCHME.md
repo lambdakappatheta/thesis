@@ -158,7 +158,7 @@ Problem: You need to bake a cake and clean your room!
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east]
 @ul[text-08]
 - 2nd solution:
 - prepare the ingredients and put the cake in the oven
