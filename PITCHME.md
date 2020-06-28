@@ -28,6 +28,7 @@
 ## Sieve of Eratosthenes
 ![seq9](assets/img/seq/seq9.png)
 
+
 +++
 ## Sieve of Eratosthenes
 ![seq25](assets/img/seq/seq25.png)
