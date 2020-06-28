@@ -1,6 +1,9 @@
 ## Concurrent programming in Rust and Go
 
 ---
+## Running example: Sieve of Eratosthenes
+
+---
 @snap[north span-100]
 ## Sieve of Eratosthenes
 @snapend
