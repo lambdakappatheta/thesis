@@ -1,7 +1,9 @@
 ## Concurrent programming in Rust and Go
 
 ---
+@snap[north]
 ## Sieve of Eratosthenes (seq)
+@snapend
 
 @ul[list-no-bullets text-08]
 - Goal: @css[fragment](Find the first *n* prime numbers)
