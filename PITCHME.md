@@ -156,12 +156,12 @@ Rust is about one magnitude **slower** than GO
 ---
 ## Concurrency vs Parallelism
 
-@ul[list-spaced-bullets]
+@ul[list-spaced-bullets text-08]
 - **Concurrency** is the composition of independently executing processes
 - **Parallelism** is the simultaneous execution of (possibly related) computations
 @ulend
 
-@ul[list-spaced-bullets]
+@ul[list-spaced-bullets text-08]
 - **Concurrency** is about *dealing* with lots of things at once.
 - **Parallelism** is about *doing* lots of things at once.
 @ulend
