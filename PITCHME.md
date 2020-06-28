@@ -151,7 +151,7 @@ Problem: You need to bake a cake and clean your room!
 @snapend
 
 @snap[west span-45]
-@ul
+@ul[text-08]
 - 1st solution:
 - bake the cake first
 - clean your room afterwards
@@ -159,7 +159,7 @@ Problem: You need to bake a cake and clean your room!
 @snapend
 
 @snap[east span-45]
-@ul
+@ul[text-08]
 - 2nd solution:
 - prepare the ingredients and put the cake in the oven
 - clean your room in the meantime
