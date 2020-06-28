@@ -149,18 +149,22 @@ Rust is about one magnitude **slower** than GO
 
 Problem: You need to bake a cake and clean your room!
 
+@snap[south-west span-45]
 @ul[text-08]
 - 1st solution:
 - bake the cake first
 - clean your room afterwards
 @ulend
+@snapend
 
+@snap[south-east span-45]
 @ul[text-08]
 - 2nd solution:
 - prepare the ingredients and put the cake in the oven
 - clean your room in the meantime
 - finish the cake
 @ulend
+@snapend
 ---
 ## Parallelism
 
