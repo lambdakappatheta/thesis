@@ -20,7 +20,6 @@ The classic version
 - Repeat until all elements of the array have been considered.
 
 @ulend
-
 ---
 @snap[north span-100]
 ## Sieve of Eratosthenes
