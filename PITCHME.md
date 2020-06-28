@@ -10,11 +10,9 @@ The classic version
 @snapend
 
 <br>
-@ul[list-no-bullets text-08 text-left]
-- Goal: @css[fragment](Find all the prime numbers between 2 and *x*)
-@ulend
-<br>
 @ul[list-no-bullets text-08]
+- Goal: @css[fragment](Find all the prime numbers between 2 and *x*)
+- <br>
 - Algorithm:
 - Create an array containing all positive integers between 2 and *x*.
 - Consider each number in the array from smallest to largest.
