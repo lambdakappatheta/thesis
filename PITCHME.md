@@ -150,6 +150,13 @@ Rust is about one magnitude **slower** than GO
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
 
 ---
+## Concurrency and parallelism
+
+![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-2.jpg)
+---
+
+
+
 @snap[north span-100 text-6]
 ## "Concurrency is not Parallelism"
 @snapend
