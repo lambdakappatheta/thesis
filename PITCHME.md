@@ -160,8 +160,11 @@ prepare the ingredients and put the cake in the oven
 clean your room in the meantime
 finish the cake
 @snapend
+
+
+
 ---
-@snap[north-west font-raleway]
+@snap[north-west font-raleway text-#5289F7 text-100 ]
 Multitasking
 @snapend
 @snap[south-west font-ubuntu]
