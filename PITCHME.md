@@ -181,8 +181,6 @@ finish the cake
 ---
 @snap[north font-raleway-heavy text-blue text-22]
 Multitasking
-@snapend
-@snap
 Problem: You need to bake a cake and clean your room!
 @snapend
 
