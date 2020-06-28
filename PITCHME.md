@@ -167,15 +167,15 @@ Rust is about one magnitude **slower** than GO
 @ulend
 
 ---
-## Problem
+## problem
 
 ![IMAGE](assets/img/waza-slide12.jpg)
 ---
-## Fine-grained concurrency
+## fine-grained concurrency
 
 ![IMAGE](assets/img/waza-slide19.jpg)
 ---
-## More parallelization
+## more parallelization
 
 ![IMAGE](assets/img/waza-slide22.jpg)
 
