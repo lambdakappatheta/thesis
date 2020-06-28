@@ -133,3 +133,12 @@ ceheck primality on the fly
 Rust is about one magnitude **slower** than GO
 @snapend
 ---
+## "Concurrency is not Parallelism"
+
+**Concurrency** is the composition of independently executing processes
+**Parallelism** is the simultaneous execution of (possibly related) computations
+
+**Concurrency** is about *dealing* with lots of things at once.
+**Parallelism** is about *doing* lots of things at once.
+
+Source: https://blog.golang.org/waza-talk
