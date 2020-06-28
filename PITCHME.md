@@ -179,4 +179,10 @@ Rust is about one magnitude **slower** than GO
 
 ![IMAGE](assets/img/waza-slide22.jpg)
 
+---
+## summary
+
+@ul[list-spaced-bullets]
+- real parallelism is only possible with hardware support
+(with multiple cores)
 
