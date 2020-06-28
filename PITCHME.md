@@ -179,11 +179,13 @@ clean your room in the meantime
 finish the cake
 @snapend
 ---
-@snap[north font-raleway-heavy text-blue text-22]
+@snap[north]
+@snap[font-raleway-heavy text-blue text-22]
 Multitasking
 @snapend
-@snap[north]
+@snap
 Problem: You need to bake a cake and clean your room!
+@snapend
 @snapend
 
 @ul[south-west span-50 text-center list-no-bullets]
