@@ -19,36 +19,17 @@ The classic version
 - Repeat until all elements of the array have been considered.
 
 @ulend
----
-@snap[north span-100]
-## Sieve of Eratosthenes
-@snapend
-The classic version
-<br>
-@ul[list-no-bullets text-08]
-- Goal: @css[fragment](Find all the prime numbers between 2 and *x*)
-- <br>
-- Algorithm:
-- Create an array containing all positive integers between 2 and *x*.
-- Consider each number in the array from smallest to largest.
-- **If the next number *num* is unmarked, then *num* is a prime**!
-- Mark all the multiples of *num* in the array!
-- Repeat until all elements of the array have been considered.
-
-@ulend
 
 ---
-@snap[north span-100]
 ## Sieve of Eratosthenes
-@snapend
-The classic version
-<br>
+
 ![classic-empty](assets/img/classic/classic-empty.png)
 ![classic-2-find](assets/img/classic/classic-2-find.png)
 ![classic-2-mark](assets/img/classic/classic-2-mark.png)
 ![classic-3-find](assets/img/classic/classic-3-find.png)
 ![classic-3-mark](assets/img/classic/classic-3-mark.png)
 ![classic-5-find](assets/img/classic/classic-5-find.png)
+
 ---
 ## Sieve of Eratosthenes
 ![classic-empty](assets/img/classic/classic-empty.png)
