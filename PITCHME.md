@@ -4,8 +4,7 @@
 ## Sieve of Eratosthenes (seq)
 
 @ul[list-no-bullets]
-- Goal:
-- Find the first *n* prime numbers
+- Goal: @css[fragment](Find the first *n* prime numbers)
 - Algorithm:
 - Keep the primes found so far in an array *primes*
 - Consider all positive integers one by one starting from two
