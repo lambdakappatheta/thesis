@@ -158,11 +158,154 @@ Rust is about one magnitude **slower** than GO
 ## Parallelism is about execution
 
 ---
-## Concurrency
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s12.jpg)
 
-@ul[list-no-bullets text-08]
-- is about **structure**
-@ulend
+burn the books
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
+
+a friend drops by
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s18.jpg)
+
+load the cart
+carry the cart
+load the incinerator
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s19.jpg)
+
+load the cart
+carry the loaded cart
+return the empty cart
+load the incinerator
+---
+The more people are around, the faster the process goes.
+
+Single core performance has reached its limits.
+But the number of cores in a single processor has been increasing rapidly.
+
+Good (concurrent) design allows you to:
+Sit back, buy new hardware and watch your program run faster!
+(like in the Good Ol' Days)
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s14.jpg)
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s15.jpg)
+
+---
+![IMAGE](assets/img/MapReduce.png)
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s22.jpg)
+
+---
+Let's get realistic
+
+So far we were concerned with having too many workers but too few tasks to keep all of them busy. Therefore we needed to split up complex tasks into smaller (partially) independent pieces.
+
+But for many years, computer scientists have had the problem of having too few workers and a lot of tasks to run. Actually even nowadays, the best affordable chips still do not have more than a few dozens of cores.
+
+---
+Ideally, the concurrent sieve algorithm implemented with threads will get blazingly fast in the future because there will be enough hardware parallelism available to assign each task to a dedicated computational unit. 
+
+But for the time being, we would still like to be able to write a relatively efficient version of the concurrent sieve algorithm. Looking at GO's performance, it is obvious that there must be a way to improve Rust's performance!
+
+---
+Concurrency revisited
+
+We said concurrency is about structure and that a well designed concurrent system can make heavy use of available hardware parallelism in order to improve performance dramatically.
+
+But, concurrent structure can also be extremely beneficiary on single core CPU's.
+
+How is that?
+
+---
+Concurrency revisited
+
+Write an essay, clean your place and bake a cake.
+
+Possible structures:
+1)
+Task 1: write an essay
+Task 2: clean your place
+Task 3: bake a cake
+
+2)
+Task 1.1: brainstorm
+Task 1.2: write the introduction
+Task 1.3: write the main part
+Task 1.4: write the conclusion
+Task 2.1: clean downstairs
+Task 2.2: clean upstairs
+Task 2.3: clean the basement
+Task 2.3: clean the attic
+Task 3.3: buy the ingredients
+Task 3.2: prepare the cake
+Task 3.3: put the cake in the oven and wait till it's done
+Task 3.4: finish the cake
+
+The main benefit of this structure is
+
+
+
+
+
+
+
+
+
+
+
+Clean your place, bake a cake and write a book.
+
+
+In the computer science world concurrent also means "seemingly parallel" 
+
+This is achieved by extremely rapid task switching.
+
+Concurrent processes can be executed on one core by interleaving the execution steps of each process
+
+---
+## Multitasking
+
+Multitasking is the concurrent execution of multiple tasks (Wiki)
+
+A concurrent system is one where a computation can advance without waiting for all other computations to complete.
+
+Concurrent processes can be executed on one core by interleaving the execution steps of each process
+
+Concurrency in the sense of "seemingly parallel" achieved by extremely rapid task switching.
+
+![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1TaskSwitching.jpg)
+
+---
+
+
+
+
+Why concurrency?
+
+- throughput
+concurrent design makes parallelization easy
+
+- responsiveness
+
+- convenience
+
+---
+responsiveness
+
+Often, processes 
+
+
 
 
 
