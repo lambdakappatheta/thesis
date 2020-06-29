@@ -150,16 +150,34 @@ The classic version
 Rust is about one magnitude **slower** than GO
 @snapend
 
-
-
-
 ---
 # Concurrency is not Parallelism
 
 ---
+## Concurrency is about structure.
+## Parallelism is about execution.
 
 ---
+## Concurrency
 
+@ul[list-no-bullets text-08]
+- is about **structure**
+@ulend
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+---
 ## Parallelism
 
 ![IMAGE](assets/img/CppConcurrencyInActionCh1Fig1-1Parallel.jpg)
