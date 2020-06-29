@@ -13,7 +13,7 @@ theme-byline   : [ "Raleway", "#111111", "none", "#111111", "100", "110", "30" ]
 theme-text     : [ "Ubuntu", "#1C1C1C", "none", "#1C1C1C", "100", "100", "25" ]
 
 
-highlight : tomorrow
+highlight : gruvbox-dark
 
 #
 # Footnote Setting
