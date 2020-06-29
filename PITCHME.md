@@ -261,17 +261,17 @@ The main benefit of this structure is
 @snapend
 @[1-2]
 @[4-16]
-@[5-6,11-15](Task)
-@[8-10](Task 2)
+@[5-6,11-15]
+@[8-10]
 @[5]
-@[6](send succeeds because the channel is empty)
-@[12](Task 2 can run in the meantime)
-@[9](cannot send because the channel is full)
+@[6]
 @[12]
-@[14](recv succeeds because the channel is not empty)
-@[15](cannot recv because the channel is empty)
-@[9](send succeeds because the channel is empty)
-@[15](recv succees because the channel is not empty)
+@[9]
+@[12]
+@[14]
+@[15]
+@[9]
+@[15]
 
 ---
 ................................................................................
