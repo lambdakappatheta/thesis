@@ -106,6 +106,19 @@ The classic version
 @[25]
 
 ---
+## Concurrent Sieve of Eratosthenes
+
+@img[fragment](assets/img/concurrent/concurrent_2-3.png)
+@img[fragment](assets/img/concurrent/concurrent_2-3-5.png)
+@img[fragment](assets/img/concurrent/concurrent_2-3-5-7.png)
+
+---
+## Concurrent Sieve of Eratosthenes
+
+@img[fragment](assets/img/concurrent/concurrent_2-3-5-7-before.png)
+@img[fragment](assets/img/concurrent/concurrent_2-3-5-7-after.png)
+
+---
 @snap[span-100]
 ## Concurrent Sieve of Eratosthenes
 @snapend
