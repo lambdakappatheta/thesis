@@ -261,7 +261,7 @@ The main benefit of this structure is
 @snapend
 @[1-2]
 @[4-16]
-@[5-6,11-15](Task 1)
+@[5-6,11-15](@size[size-14]Task 1)
 @[7-8](Task 2)
 @[5]
 @[6](send succeeds because the channel is empty)
