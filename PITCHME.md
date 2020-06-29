@@ -128,7 +128,7 @@ The classic version
 @[11-18]
 @[20-32]
 
----?code=rust-sieve-thread.rs&lang=rust
+---?code=rust/thread-sieve/src/lib.rs&lang=rust
 @snap[north-east]
 ## Rust
 @snapend
