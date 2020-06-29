@@ -154,8 +154,8 @@ Rust is about one magnitude **slower** than GO
 # Concurrency is not Parallelism
 
 ---
-## Concurrency is about **structure**.
-## Parallelism is about execution.
+## Concurrency is about structure
+## Parallelism is about execution
 
 ---
 ## Concurrency
