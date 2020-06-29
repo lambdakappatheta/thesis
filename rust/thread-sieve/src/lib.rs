@@ -26,11 +26,11 @@ fn filter(prime: usize, receiver: Receiver<usize>, sender: SyncSender<usize>) {
 }
 
 pub fn sieve() {
-    let (gen, mut end) = sync_channel(1);
-    thread::spawn(move || generate(gen));
+    let (s, mut r) = sync_channel(1);
+    thread::spawn(move || generate(s));
 
     for _ in 0..100 {
-        let prime = match end.recv() {
+        let prime = match r.recv() {
             Ok(msg) => msg,
             Err(RecvError) => {
                 break;
@@ -38,8 +38,8 @@ pub fn sieve() {
         };
         println!("{}", prime);
 
-        let (sender, receiver) = sync_channel(1);
-        thread::spawn(move || filter(prime, end, sender));
-        end = receiver;
+        let (s1, r1) = sync_channel(1);
+        thread::spawn(move || filter(prime, r, s1));
+        r = r1;
     }
 }

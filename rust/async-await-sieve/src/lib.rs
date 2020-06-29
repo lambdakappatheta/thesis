@@ -24,18 +24,18 @@ async fn filter(prime: usize, receiver: Receiver<usize>, sender: Sender<usize>) 
 }
 
 pub async fn sieve() {
-    let (gen, mut end) = channel(1);
-    task::spawn(generate(gen));
+    let (s, mut r) = channel(1);
+    task::spawn(generate(s));
 
     for _ in 0..100 {
-        let prime = match end.recv().await {
+        let prime = match r.recv().await {
             Ok(msg) => msg,
             Err(_) => break,
         };
         println!("{}", prime);
 
-        let (sender, receiver) = channel(1);
-        task::spawn(filter(prime, end, sender));
-        end = receiver;
+        let (s1, r1) = channel(1);
+        task::spawn(filter(prime, r, s1));
+        r = r1;
     }
 }
