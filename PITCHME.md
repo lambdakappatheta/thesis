@@ -119,7 +119,6 @@ The classic version
 @img[fragment](assets/img/concurrent/concurrent_2-3-5-7-after.png)
 
 ---
-
 @snap[span-100]
 ## Concurrent Sieve of Eratosthenes
 @snapend
