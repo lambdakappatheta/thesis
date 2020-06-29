@@ -124,18 +124,18 @@ The classic version
 @snapend
 
 @[3]
-@[20-32]
 @[5-9]
 @[11-18]
+@[20-32]
 
 ---?code=rust-sieve-thread.rs&lang=rust
 @snap[north-east]
 ## Rust
 @snapend
 @[1-4]
-@[28-45]
 @[6-12]
 @[14-26]
+@[28-45]
 
 ---
 ## Results
