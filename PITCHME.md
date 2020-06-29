@@ -259,6 +259,7 @@ The main benefit of this structure is
 @snap[north-east]
 ## Rust
 @snapend
+
 @[1-2]
 @[4-18]
 @[5-8,12-17]
@@ -273,6 +274,15 @@ The main benefit of this structure is
 @[10]
 @[16](World)
 
+---?code=rust/async-await-sieve/src/lib.rs&lang=rust
+@snap[north-east]
+## Rust
+@snapend
+
+@[1-4]
+@[6-10]
+@[12-24]
+@[26-41]
 ---
 ................................................................................
 
