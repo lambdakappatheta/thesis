@@ -1,0 +1,12 @@
+/home/andras/lkt/thesis/rust/async-await-channel/target/debug/deps/async_task-3b6b8914c952cc0d.rmeta: /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/lib.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/header.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/join_handle.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/raw.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/state.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/task.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/utils.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/waker_fn.rs
+
+/home/andras/lkt/thesis/rust/async-await-channel/target/debug/deps/async_task-3b6b8914c952cc0d.d: /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/lib.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/header.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/join_handle.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/raw.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/state.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/task.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/utils.rs /home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/waker_fn.rs
+
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/lib.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/header.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/join_handle.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/raw.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/state.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/task.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/utils.rs:
+/home/andras/.cargo/registry/src/github.com-1ecc6299db9ec823/async-task-3.0.0/src/waker_fn.rs:

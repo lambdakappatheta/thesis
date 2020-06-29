@@ -181,6 +181,7 @@ load the cart
 carry the loaded cart
 return the empty cart
 load the incinerator
+
 ---
 The more people are around, the faster the process goes.
 
@@ -254,14 +255,28 @@ Task 3.4: finish the cake
 
 The main benefit of this structure is
 
+---?code=rust/async-await-channel/src/lib.rs&lang=rust
+@snap[north-east]
+## Rust
+@snapend
+@[1-2]
+@[4-16]
+@[5-6,10-14](Task 1)
+@[7-8](Task 2)
+@[5]
+@[6](send succeeds because the channel is empty)
+@[11](Task 2 can run in the meantime)
+@[8](cannot send because the channel is full)
+@[11]
+@[13](recv succeeds because the channel is not empty)
+@[14](cannot recv because the channel is empty)
+@[8](send succeeds because the channel is empty)
+@[14](recv succees because the channel is not empty)
 
+---
+................................................................................
 
-
-
-
-
-
-
+---
 
 
 Clean your place, bake a cake and write a book.

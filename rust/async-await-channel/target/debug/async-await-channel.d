@@ -1,0 +1,1 @@
+/home/andras/lkt/thesis/rust/async-await-channel/target/debug/async-await-channel: /home/andras/lkt/thesis/rust/async-await-channel/src/lib.rs /home/andras/lkt/thesis/rust/async-await-channel/src/main.rs
