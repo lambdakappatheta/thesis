@@ -294,18 +294,12 @@ The main benefit of this structure is
 @css[fragment](This code can be run on a **single CPU** but can also make use of **multiple cores** if available.)
 
 ---
-## async/await
+## Results
 
-@ul[list-no-bullets]
-- Rust's **async/await** syntax allows us to express **concurrent design** easily.
-- Note that we did not say anything about how much **parallelism** we want!
-- This code can be run on a **single CPU** but can also make use of **multiple cores** if available.
-@ulend
-
-
-
-
-
+| 	|GO 	|Rust (thread) 	|Rust (task) 	| 	
+|-------|-------|---------------|---------------|
+|100 	|2.5 ms	|35 ms 		|4.5 ms 	|
+|1000 	|180 ms	|2.25 s		|241 ms 	|
 
 ---
 ---
