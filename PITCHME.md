@@ -285,6 +285,19 @@ The main benefit of this structure is
 @[26-41]
 
 ---
+@snap[north-west]
+## async/await
+@snapend
+
+@css[fragment](Rust's **async/await** syntax allows us to express **concurrent design** easily.)
+
+@css[fragment](Note that we did not say anything about how much **parallelism** we want!)
+
+@css[fragment](This code can be run on a **single CPU** but can also make use of **multiple cores** if available.)
+
+---
+## async/await
+
 @css[fragment](Rust's **async/await** syntax allows us to express **concurrent design** easily.)
 
 @css[fragment](Note that we did not say anything about how much **parallelism** we want!)
