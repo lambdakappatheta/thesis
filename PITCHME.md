@@ -298,8 +298,8 @@ The main benefit of this structure is
 
 | 	|GO 	|Rust (thread) 	|Rust (task) 	| 	
 |-------|-------|---------------|---------------|
-|100 	|2.5 ms	|35 ms 		|4.5 ms 	|
-|1000 	|180 ms	|2.25 s		|241 ms 	|
+|100 	|2.5 ms	|35 ms 		|    4.5 ms 	|
+|1000 	|180 ms	|2.25 s		|    240 ms 	|
 
 ---
 ---
