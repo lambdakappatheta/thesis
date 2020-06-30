@@ -283,6 +283,23 @@ The main benefit of this structure is
 @[6-10]
 @[12-24]
 @[26-41]
+
+---
+## async/await
+
+Rust's **async/await** syntax allows us to express **concurrent design** easily.
+
+Note that we did not say anything about how much **parallelism** we want!
+
+This code can be run on a **single CPU** but can also make use of **multiple cores** if available.
+
+
+
+
+
+
+
+---
 ---
 ................................................................................
 
