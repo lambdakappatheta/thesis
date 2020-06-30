@@ -285,8 +285,6 @@ The main benefit of this structure is
 @[26-41]
 
 ---
-## async/await
-
 @css[fragment](Rust's **async/await** syntax allows us to express **concurrent design** easily.)
 
 @css[fragment](Note that we did not say anything about how much **parallelism** we want!)
