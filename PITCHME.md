@@ -294,8 +294,6 @@ The main benefit of this structure is
 @css[fragment](This code can be run on a **single CPU** but can also make use of **multiple cores** if available.)
 
 ---
-## Results
-
 | 	|GO 	|Rust (thread) 	|Rust (async/await) 	| 	
 |-------|-------|---------------|-----------------------|
 |100 	|2.5 ms	|35 ms 		|4.5 ms 		|
