@@ -568,6 +568,8 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](it **turns an @css[font-source-sans-pro-medium](async fn) into a normal function returning a state machine**.)
 
 ---
+## async transform
+
 ```rust
 async fn foo() -> Vec<i32> {
 	/ *Implementation */
