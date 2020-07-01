@@ -580,6 +580,8 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 }
 ```
 
+[1,4]
+
 ---
 
 
