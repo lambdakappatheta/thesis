@@ -461,6 +461,24 @@ The **Send** @css[text-orange](*marker trait*) indicates that ownership of the t
 @css[fragment](Almost every Rust type is **Send**)
 
 ---
+@snap[north-east]
+## Rust
+@snapend
+
+```rust
+pub fn spawn_local<F, T>(future: F) -> JoinHandle<T>
+where
+    F: Future<Output = T> + 'static,
+    T: 'static, 
+{
+    /* Implementation */
+}
+```
+
+@[3]
+@[4]
+
+---
 
 
 
