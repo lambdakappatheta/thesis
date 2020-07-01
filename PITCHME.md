@@ -599,6 +599,19 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
+## What did I implement? (client)
+
+@ul
+- @css[text-09](The concurrent sieve algorith)
+  - @css[text-08](using the various asynchronous libraries available)
+  - @css[text-08](using my own executor and channel)
+  - @css[text-08](using handwritten state machines)
+  - @css[text-08](using the @css[font-source-sans-pro](std::thread) library)
+- @css[text-09](The sequential sieve algorith)
+
+@ulend
+
+---
 
 ## What did I implement?
 
