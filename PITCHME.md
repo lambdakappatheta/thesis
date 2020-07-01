@@ -542,7 +542,7 @@ i.e. it is **!Send** and **!Sync**
 ---
 ## Axes
 
-@ul[list-no-bullets]
+@ul[list-no-bullets text-center]
 - executor
 - channel
 - number of primes
