@@ -628,10 +628,31 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - @css[text-09](hyperfine)
 - @css[text-09](handwritten benchmarks)
 - @css[text-09](tmux (for running long tests on remote machines))
-
 @ulend
 
 ---
+## What the slides do not cover?
+
+@ul
+- @css[text-09](Rust's unique features)
+  - @css[text-08](ownership and borrowing)
+  - @css[text-08](lifetimes)
+- @css[text-09](corountines in general)
+- @css[text-09](generators in general)
+- @css[text-09](state machines in general)
+- @css[text-09](@css[font-source-sans-pro](std::future::Future))
+- @css[text-09](@css[font-source-sans-pro](std::pin::Pin))
+- @css[text-09](@css[font-source-sans-pro](std::task::Context))
+- @css[text-09](@css[font-source-sans-pro](std::task::RawWaker))
+- @css[text-09](@css[font-source-sans-pro](std::task::RawWakerVTable))
+- @css[text-09](@css[font-source-sans-pro](std::thread_local))
+- @css[text-09](@css[font-source-sans-pro](std::ops::Generator))
+@ulend
+
+---
+
+
+
 
 
 
