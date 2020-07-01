@@ -621,7 +621,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
-## What did I experiment with? (benchmarking)
+## What did I experiment with?
 
 @ul
 - @css[text-09](the Unix @css[font-source-sans-pro](time) command)
