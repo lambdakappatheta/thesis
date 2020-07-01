@@ -365,7 +365,7 @@ Visual simulation of the concurrent sieve
 ---
 |executor 	|channel 	| any good? 		| 	
 |:-------------:|:-------------:|:---------------------:|
-|**mt**		|@css[text-green](**sync**)	|**yes**		|
+|**mt**		|**sync**	|**yes**		|
 |mt		|no sync	|race condition	|
 |st 		|sync 		|unnecessary		|
 |st 		|no sync	|yes 			|
@@ -482,6 +482,12 @@ where
 
 ---
 
+|executor 	|channel 	| any good? 		| 	
+|:-------------:|:-------------:|:---------------------:|
+|mt 		|sync 		|yes 			|
+|mt		|no sync	|race condition		|
+|**st**		|**sync**	|**unnecessary**	|
+|st 		|no sync	|yes 			|
 
 
 
