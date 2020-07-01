@@ -565,7 +565,7 @@ i.e. it is **!Send** and **!Sync**
 
 <br>
 @css[fragment](And, by the way, this is what now the Rust compiler does uner the hood as well..)
-@css[fragment](it turns an @css[font-source-sans-pro](async fn) into a normal function returning a state machine)
+@css[fragment](it turns an @css[font-source-sans-pro-medium](async fn) into a normal function returning a state machine)
 
 ---
 
