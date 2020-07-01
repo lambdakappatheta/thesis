@@ -363,6 +363,14 @@ Visual simulation of the concurrent sieve
 @[20,31-34]
 
 ---
+|executor 	|channel 	| any good? 	| 	
+|:-------------:|:-------------:|:-------------:|
+|mt 		|@color[green]sync 		|yes 		|
+|mt 		|no sync	|race condition	|
+|st 		|sync 		|unnecessary	|
+|st 		|no sync	|yes 		|
+
+
 
 
 
