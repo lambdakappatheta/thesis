@@ -568,10 +568,19 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](it **turns an @css[font-source-sans-pro-medium](async fn) into a normal function returning a state machine**.)
 
 ---
+```rust
+async fn foo() -> Vec<i32> {
+	/ *Implementation */
+}
+```
 
+```rust
+fn foo() -> impl Future<Output = Vec<i32>> {
+	/ *Implementation */
+}
+```
 
 ---
-
 
 
 
@@ -594,6 +603,21 @@ i.e. it is **!Send** and **!Sync**
 
 ---
 ................................................................................
+
+---
+## async/await under the hood
+
+corountine
+generator
+
+std::Future::Future
+std::pin::Pin
+std::task::Context
+std::task::RawWaker
+std::task::RawWakerVTable
+std::thread_local
+std::ops::Generator
+
 
 ---
 ---
