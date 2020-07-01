@@ -426,10 +426,15 @@ impl Summary for Tweet {
         format!("{}: {}", self.username, self.content)
     }
 }
+
+pub fn notify<T: Summary>(item: &T) {
+    println!("Breaking news! {}", item.summarize());
+}
 ```
 @[1-3]
 @[5-8]
 @[1-3,10-14]
+@[16-18]
 ---
 
 
