@@ -410,11 +410,23 @@ There is no such channel in the popular libraries..
 Traits are like interfaces
 
 ```rust
-trait Printable {
-	fn to_string(&self) -> String;
+pub trait Summary {
+    fn summarize(&self) -> String;
 }
 ```
 
+```rust
+struct Tweet {
+	username: String,
+	content: String,
+}
+
+impl Summary for Tweet {
+    fn summarize(&self) -> String {
+        format!("{}: {}", self.username, self.content)
+    }
+}
+```
 ---
 
 
