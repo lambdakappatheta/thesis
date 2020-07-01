@@ -454,9 +454,8 @@ where
 @[4]
 
 ---
-## Send
+# Send
 
-<br>
 The **Send** @css[text-orange](*marker trait*) indicates that ownership of the type implementing **Send** @css[text-orange](*can be transferred between threads*)
 
 @css[fragment](Almost every Rust type is **Send**)
