@@ -403,7 +403,7 @@ Nonsensical
 |st 		|sync 		|unnecessary		|
 |**st**		|**no sync**	|**yes**		|
 
-<br>
+<br><br>
 There is no such channel in the popular libraries..
 
 ---
