@@ -451,7 +451,7 @@ where
 ```
 
 @[3]
-@[4]
+@[3,4]
 
 ---
 ## Send
@@ -479,6 +479,7 @@ where
 
 <br>
 @css[fragment](since async-std v1.6.0)
+
 ---
 
 
