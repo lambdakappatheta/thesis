@@ -545,6 +545,17 @@ i.e. it is **!Send** and **!Sync**
 ---
 ## Punchline
 
+@css[fragment](The fastest concurrent implementation finds the first 1000 primes in)
+
+@css[fragment](**90 ms**)
+
+@css[fragment](The sequential sive in)
+
+@css[fragment](**4 ms**)
+
+---
+## Punchline
+
 @css[fragment](The sequential sive finds the first 1000 primes in)
 
 @css[fragment](**4 ms**)
