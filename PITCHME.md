@@ -563,6 +563,9 @@ i.e. it is **!Send** and **!Sync**
 <br>
 @css[fragment text-12](They wrote **state machines**!)
 
+<br>
+@css[fragment text-12](And, by the way, this is what the Rust compiler does uner the hood as well)
+
 ---
 
 
