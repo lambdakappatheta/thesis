@@ -370,8 +370,8 @@ Visual simulation of the concurrent sieve
 |st 		|sync 		|unnecessary		|
 |st 		|no sync	|yes 			|
 
-<br>
-<br>We already have this!
+<br><br>
+We already have this!
 
 +++
 |executor 	|channel 	| any good? 		| 	
@@ -381,7 +381,7 @@ Visual simulation of the concurrent sieve
 |st 		|sync 		|unnecessary		|
 |st 		|no sync	|yes 			|
 
-<br>
+<br><br>
 **Impossible in *safe* Rust!**
 
 +++
@@ -392,6 +392,9 @@ Visual simulation of the concurrent sieve
 |**st**		|**sync**	|**unnecessary**	|
 |st 		|no sync	|yes 			|
 
+<br><br>
+Nonsensical
+
 +++
 |executor 	|channel 	| any good? 		| 	
 |:-------------:|:-------------:|:---------------------:|
@@ -400,6 +403,7 @@ Visual simulation of the concurrent sieve
 |st 		|sync 		|unnecessary		|
 |**st**		|**no sync**	|**yes**		|
 
+<br>
 There is no such channel in the popular libraries..
 
 ---
