@@ -370,6 +370,7 @@ Visual simulation of the concurrent sieve
 |st 		|sync 		|unnecessary		|
 |st 		|no sync	|yes 			|
 
+<br>
 We already have this!
 
 +++
@@ -380,6 +381,7 @@ We already have this!
 |st 		|sync 		|unnecessary		|
 |st 		|no sync	|yes 			|
 
+<br>
 **Impossible in *safe* Rust!**
 
 +++
