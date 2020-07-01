@@ -454,7 +454,7 @@ where
 @[4]
 
 ---
-# Send
+## Send
 
 The **Send** @css[text-orange](*marker trait*) indicates that ownership of the type implementing **Send** @css[text-orange](*can be transferred between threads*)
 
