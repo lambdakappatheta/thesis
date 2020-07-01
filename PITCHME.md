@@ -407,10 +407,15 @@ Nonsensical
 There is no such channel in the popular libraries..
 
 ---
+Traits are like interfaces
 
+```rust
+trait Printable {
+	fn to_string(&self) -> String;
+}
+```
 
-
-
+---
 
 
 
