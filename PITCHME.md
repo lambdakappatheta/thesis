@@ -420,7 +420,6 @@ struct Tweet {
 	username: String,
 	content: String,
 }
-
 impl Summary for Tweet {
     fn summarize(&self) -> String {
         format!("{}: {}", self.username, self.content)
