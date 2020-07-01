@@ -371,7 +371,7 @@ Visual simulation of the concurrent sieve
 |st 		|no sync	|yes 			|
 
 <br>
-We already have this!
+<br>We already have this!
 
 +++
 |executor 	|channel 	| any good? 		| 	
