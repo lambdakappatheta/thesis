@@ -407,7 +407,12 @@ Nonsensical
 There is no such channel in the popular libraries..
 
 ---
-Traits are like interfaces
+@snap[north-west]
+## Traits
+@snapend
+@snap[north-east]
+## Rust
+@snapend
 
 ```rust
 trait Summary {
