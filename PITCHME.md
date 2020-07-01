@@ -528,13 +528,16 @@ i.e. it is **!Send** and **!Sync**
 |st 		|no sync	|**60 ms**		|270 ms 		|
 
 ---
-There are 4 main asynchronous Rust libraries:
+## Asynchronous Rust libraries
 @ul
 - async-std
 - tokio
 - async-task
 - futures
 @ulend
+
+---
+
 
 
 
