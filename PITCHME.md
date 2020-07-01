@@ -626,7 +626,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ul
 - @css[text-09](the Unix @css[font-source-sans-pro](time) command)
 - @css[text-09](shell scripting)
-- @css[text-09](hyperfine (benchmarking))
+- @css[text-09](hyperfine)
 - @css[text-09](handwritten benchmarks)
 - @css[text-09](tmux (for running long tests on remote machines))
 
