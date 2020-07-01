@@ -436,7 +436,9 @@ pub fn notify<T: Summary>(item: &T) {
 @[15-17]
 
 ---
-## async_std::task::spawn
+@snap[north-east]
+## Rust
+@snapend
 
 ```rust
 pub fn spawn<F, T>(future: F) -> JoinHandle<T>
