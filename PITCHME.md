@@ -543,9 +543,13 @@ i.e. it is **!Send** and **!Sync**
 ## Axes
 
 @css[fragment](executor)
+
 @css[fragment](channel)
+
 @css[fragment](number of primes)
+
 @css[fragment](capacity)
+
 @css[fragment](CPU)
 
 ---
