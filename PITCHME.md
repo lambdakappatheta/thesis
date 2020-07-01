@@ -547,11 +547,11 @@ i.e. it is **!Send** and **!Sync**
 
 @css[fragment](The sequential sive finds the first 1000 primes in)
 
-@css[fragment](4 ms)
+@css[fragment](**4 ms**)
 
-@css[fragment](And the fastest concurrent implementation in)
+@css[fragment](The fastest concurrent implementation in)
 
-@css[fragment](90 ms)
+@css[fragment](**90 ms**)
 
 ---
 ## Axes
