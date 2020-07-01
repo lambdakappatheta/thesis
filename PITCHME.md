@@ -593,7 +593,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - @css[text-09](an asynchronous "non-blocking" single threaded bounded spsc channel)
   - @css[text-08](using Rust's new async/await syntax)
   - @css[text-08](using hadwritten state machines)
-- @css[text-09](a "blocking" bounded spsc channel)
+- @css[text-09](a "blocking" multi threaded bounded spsc channel)
   - @css[text-08](using @css[font-source-sans-pro](std::sync::Condvar))
   - @css[text-08](using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark))
 @ulend
