@@ -322,6 +322,67 @@ The main benefit of this structure is
 |1000 	|180 ms	|2.25 s		|240 ms 	|
 
 ---
+CPU usage looks the same
+
+---
+Parallelism
+
+pro: throughput
+con: synchronisation
+
+---
+Synchronisation is expensive
+
+trade-off:
+- cost for synchronisation
+- gain from parallelism
+
+twice as many workers ?= doubled throughput
+
+---
+Concurrency without Parallelism
+
+With only a handful of threads, the concurrent sieve might benefit more from less synchronisation than from parallelism.
+
+---
+Concurrency without Parallelism
+
+Visual simulation of the concurrent sieve
+
+---?code=rust/async-await-sieve/src/lib.rs&lang=rust
+@snap[north-east]
+## Rust
+@snapend
+
+@[1-4]
+@[26-41]
+@[28]
+@[38]
+@[8,14-17]
+@[14-17,18-22]
+@[18-22,31-34]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ................................................................................
 
