@@ -499,8 +499,10 @@ async_std::sync::Receiver is **Send** and **Sync**
 
 @css[fragment](my spsc channel is @css[text-orange](not thread-safe)):
 
+@ul
 spsc::Sender is **!Send** and **!Sync**
 spsc::Receiver is **!Send** and **!Sync**
+@ulend
 
 ---
 ## SPSC
