@@ -543,6 +543,15 @@ i.e. it is **!Send** and **!Sync**
 ![IMAGE](assets/img/1000.png)
 
 ---
+## Punchline
+
+@css[fragment](The sequential sive finds the first 1000 primes in)
+@css[fragment](4 ms)
+
+@css[fragment](And the fastest concurrent implementation in)
+@css[fragment](90 ms)
+
+---
 ## Axes
 
 @css[fragment](executor)
@@ -556,17 +565,7 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](CPU)
 
 ---
-## Axes
-
-@ul[list-no-bullets text-center]
-- executor
-- channel
-- number of primes
-- capacity
-- CPU
-@ulend
-
----
+## What did I implement?
 
 
 
