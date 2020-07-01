@@ -528,16 +528,13 @@ i.e. it is **!Send** and **!Sync**
 |st 		|no sync	|**60 ms**		|270 ms 		|
 
 ---
-				|E7-4880 4/60/120 				|
-|executor 	|channel 	| (1000)|E7-4880 4/60/120 (2000)| 		|
-|:-------------:|:-------------:|:---------------------:|:---------------------:|
-|mt 		|sync 		|110 ms 		|**155 ms** 		|
-|mt		|no sync	|- 			|- 			|
-|st		|sync 		|110 ms 		|470 ms 		|
-|st 		|no sync	|**60 ms**		|270 ms 		|
-
----
-
+There are 4 main asynchronous Rust libraries:
+@ul
+- async-std
+- tokio
+- async-task
+- futures
+@ulend
 
 
 
