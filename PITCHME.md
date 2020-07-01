@@ -586,7 +586,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @[1,4]
 
 ---
-## What did I implement?
+## What did I implement? (lib)
 
 @ul
 - @css[text-09](an asynchronous signle threaded executor)
