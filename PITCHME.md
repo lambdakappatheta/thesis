@@ -456,7 +456,7 @@ where
 ---
 ## Send
 
-The *Send* __marker trait__ indicates that ownership of the type implementing `Send` __can be transferred between threads__.
+The **Send** __marker trait__ indicates that ownership of the type implementing `Send` __can be transferred between threads__.
 
 Almost every Rust type is `Send`, but there are some exceptions.
 
