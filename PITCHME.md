@@ -537,7 +537,9 @@ i.e. it is **!Send** and **!Sync**
 @ulend
 
 ---
+![IMAGE](assets/img/asynchronousRust.png)
 
+---
 
 
 
