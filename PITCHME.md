@@ -589,7 +589,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ## What did I implement? (lib)
 
 @ul
-an asynchronous signle threaded executor
+- an asynchronous signle threaded executor
 
 - an asynchronous "non-blocking" bounded spsc channel
 @ul
