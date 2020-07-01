@@ -588,19 +588,19 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## What did I implement?
 
-@css[fragment text-left](an asynchronous signle threaded executor)
+- @css[fragment text-left](an asynchronous signle threaded executor)
 
-@css[fragment text-left](an asynchronous "non-blocking" bounded spsc channel)
+- @css[fragment text-left](an asynchronous "non-blocking" bounded spsc channel)
 
-@css[fragment text-09 text-left](using Rust's new async/await syntax)
+  - @css[fragment text-09 text-left](using Rust's new async/await syntax)
 
-@css[fragment text-09 text-left](using hadwritten state machines)
+  - @css[fragment text-09 text-left](using hadwritten state machines)
 
-@css[fragment text-left](a "blocking" bounded spsc channel)
+- @css[fragment text-left](a "blocking" bounded spsc channel)
 
-@css[fragment text-left](using @css[font-source-sans-pro](std::sync::Condvar))
+- @css[fragment text-left](using @css[font-source-sans-pro](std::sync::Condvar))
 
-@css[fragment text-left](using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark))
+- @css[fragment text-left](using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark))
 ---
 ## What did I implement? (lib)
 
