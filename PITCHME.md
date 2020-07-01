@@ -359,7 +359,7 @@ Visual simulation of the concurrent sieve
 @[28]
 @[38]
 @[8,14-17]
-@[14-17,18-22]
+@[14-17,20]
 @[18-22,31-34]
 
 ---
