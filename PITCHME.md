@@ -490,6 +490,10 @@ where
 |st 		|no sync	|yes 			|
 
 ---
+async_std::sync::Sender implements **Send** and **Sync**
+async_std::sync::Receiver implements **Send** and **Sync**
+
+---
 
 
 
