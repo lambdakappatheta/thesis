@@ -474,6 +474,7 @@ where
     /* Implementation */
 }
 ```
+@snap[fragment]
 ```rust
 pub fn spawn_local<F, T>(future: F) -> JoinHandle<T>
 where
@@ -486,6 +487,7 @@ where
 
 @[3]
 @[4]
+@snapend
 
 ---
 
