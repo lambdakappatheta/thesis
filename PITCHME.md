@@ -407,9 +407,6 @@ Nonsensical
 There is no such channel in the popular libraries..
 
 ---
-@snap[north-west]
-## Traits
-@snapend
 @snap[north-east]
 ## Rust
 @snapend
