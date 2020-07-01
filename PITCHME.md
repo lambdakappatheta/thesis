@@ -597,8 +597,8 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment text-left](using hadwritten state machines)
 
 @css[fragment text-left]("blocking" bounded spsc channel)
-@css[fragment text-left]using @css[font-source-sans-pro](std::sync::Condvar))
-@css[fragment text-left]using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark))
+@css[fragment text-left](using @css[font-source-sans-pro](std::sync::Condvar))
+@css[fragment text-left](using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark))
 ---
 ## What did I implement? (lib)
 
