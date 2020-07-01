@@ -363,13 +363,44 @@ Visual simulation of the concurrent sieve
 @[20,31-34]
 
 ---
-|executor 	|channel 	| any good? 	| 	
-|:-------------:|:-------------:|:-------------:|
-|mt 		|sync 		|yes 		|
-|mt 		|no sync	|**race condition**	|
-|st 		|sync 		|unnecessary	|
-|st 		|no sync	|yes 		|
+|executor 	|channel 	| any good? 		| 	
+|:-------------:|:-------------:|:---------------------:|
+|**mt**		|**sync**	|**yes**		|
+|mt		|no sync	|race condition	|
+|st 		|sync 		|unnecessary		|
+|st 		|no sync	|yes 			|
 
+We already have this!
+
++++
+|executor 	|channel 	| any good? 		| 	
+|:-------------:|:-------------:|:---------------------:|
+|mt 		|sync 		|yes 			|
+|**mt**		|**no sync**	|**race condition**	|
+|st 		|sync 		|unnecessary		|
+|st 		|no sync	|yes 			|
+
+**Impossible in *safe* Rust!**
+
++++
+|executor 	|channel 	| any good? 		| 	
+|:-------------:|:-------------:|:---------------------:|
+|mt 		|sync 		|yes 			|
+|mt		|no sync	|race condition		|
+|**st**		|**sync**	|**unnecessary**	|
+|st 		|no sync	|yes 			|
+
++++
+|executor 	|channel 	| any good? 		| 	
+|:-------------:|:-------------:|:---------------------:|
+|mt 		|sync 		|yes 			|
+|mt		|no sync	|race condition		|
+|st 		|sync 		|unnecessary		|
+|**st**		|**no sync**	|**yes**		|
+
+There is no such channel in the popular libraries..
+
+---
 
 
 
