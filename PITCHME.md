@@ -567,6 +567,16 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](And, by the way, this is what now the Rust compiler does uner the hood as well..)
 
 ---
+The Rust compiler turns an *async fn* into a normal function returning a state machine
+
+---
+
+
+
+
+
+
+
 
 
 
