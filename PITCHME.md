@@ -537,19 +537,6 @@ i.e. it is **!Send** and **!Sync**
 @ulend
 
 ---
-## Axes
-
-@css[fragment](executor)
-
-@css[fragment](channel)
-
-@css[fragment](number of primes)
-
-@css[fragment](capacity)
-
-@css[fragment](CPU)
-
----
 ![IMAGE](assets/img/asynchronousRust.png)
 
 ---
@@ -568,19 +555,13 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](**4 ms**)
 
 ---
-## Punchline
+Async-await debuted on stable Rust in November 2019..
 
-@css[fragment](The sequential sive finds the first 1000 primes in)
+@css[fragment text-orange](So what did folks do before?)
 
-@css[fragment](**4 ms**)
-
-@css[fragment](The fastest concurrent implementation in)
-
-@css[fragment](**90 ms**)
+@css[fragment](They wrote state machines!)
 
 ---
-## What did I implement?
-
 
 
 
@@ -599,6 +580,18 @@ i.e. it is **!Send** and **!Sync**
 ................................................................................
 
 ---
+---
+## Axes
+
+@css[fragment](executor)
+
+@css[fragment](channel)
+
+@css[fragment](number of primes)
+
+@css[fragment](capacity)
+
+@css[fragment](CPU)
 
 
 Clean your place, bake a cake and write a book.
