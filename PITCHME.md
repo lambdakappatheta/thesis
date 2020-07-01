@@ -513,6 +513,14 @@ i.e. it is **!Send** and **!Sync**
 
 ---
 
+|executor 	|channel 	| Core(TM)2 Quad (1000)	| Core(TM)2 Quad (2000)	| 	
+|:-------------:|:-------------:|:---------------------:|:---------------------:|
+|mt 		|sync 		|240 ms 		|690 ms 		|
+|mt		|no sync	|- 			|- 			|
+|**st**		|**sync**	|180 ms 		|1 s 			|
+|st 		|no sync	|90 ms 			|350 ms 		|
+
+---
 
 
 
