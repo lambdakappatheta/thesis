@@ -434,6 +434,7 @@ pub fn notify<T: Summary>(item: &T) {
 @[5-8]
 @[1-3,5-8,9-14]
 @[15-17]
+
 ---
 ```rust
 pub fn spawn<F, T>(future: F) -> JoinHandle<T>
@@ -443,6 +444,10 @@ where
 {
     /* Implementation */
 }
+```
+
+@[7]
+@[8]
 
 
 
