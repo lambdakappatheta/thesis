@@ -410,12 +410,10 @@ There is no such channel in the popular libraries..
 Traits are like interfaces
 
 ```rust
-pub trait Summary {
+trait Summary {
     fn summarize(&self) -> String;
 }
-```
 
-```rust
 struct Tweet {
 	username: String,
 	content: String,
@@ -427,6 +425,9 @@ impl Summary for Tweet {
     }
 }
 ```
+@[1-3]
+@[5-8]
+@[10-14]
 ---
 
 
