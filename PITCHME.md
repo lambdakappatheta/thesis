@@ -454,6 +454,13 @@ where
 @[4]
 
 ---
+#Send
+
+The `Send` marker trait indicates that ownership of the type implementing `Send` can be transferred between threads.
+Almost every Rust type is `Send`, but there are some exceptions.
+
+---
+
 
 
 
