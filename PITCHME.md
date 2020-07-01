@@ -588,12 +588,11 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## What did I implement? (lib)
 
-@ul
-- an asynchronous signle threaded executor
+@css[fragment](an asynchronous signle threaded executor)
 
-- an asynchronous "non-blocking" bounded spsc channel <br>
-using Rust's new async/await syntax <br>
-using hadwritten state machines
+@css[fragment](an asynchronous "non-blocking" bounded spsc channel)
+@css[fragment](using Rust's new async/await syntax)
+@css[fragment](using hadwritten state machines)
 
 - a "blocking" bounded spsc channel
 using @css[font-source-sans-pro](std::sync::Condvar)
