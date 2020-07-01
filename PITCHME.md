@@ -537,6 +537,19 @@ i.e. it is **!Send** and **!Sync**
 @ulend
 
 ---
+## Axes
+
+@css[fragment](executor)
+
+@css[fragment](channel)
+
+@css[fragment](number of primes)
+
+@css[fragment](capacity)
+
+@css[fragment](CPU)
+
+---
 ![IMAGE](assets/img/asynchronousRust.png)
 
 ---
@@ -564,19 +577,6 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](The fastest concurrent implementation in)
 
 @css[fragment](**90 ms**)
-
----
-## Axes
-
-@css[fragment](executor)
-
-@css[fragment](channel)
-
-@css[fragment](number of primes)
-
-@css[fragment](capacity)
-
-@css[fragment](CPU)
 
 ---
 ## What did I implement?
