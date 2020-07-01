@@ -549,7 +549,7 @@ i.e. it is **!Send** and **!Sync**
 
 @css[fragment](**90 ms**)
 
-@css[fragment](The sequential sive in)
+@css[fragment](The sequential sieve in)
 
 @css[fragment](**4 ms**)
 
