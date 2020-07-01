@@ -587,7 +587,6 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 ---
 ## What did I implement? (lib)
-
 @ul
 - @css[text-09](an asynchronous signle threaded executor)
 - @css[text-09](an asynchronous "non-blocking" single threaded bounded spsc channel)
