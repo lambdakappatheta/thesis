@@ -591,11 +591,9 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ul
 - an asynchronous signle threaded executor
 
-- an asynchronous "non-blocking" bounded spsc channel
-@ul[list-no-bullets]
-- using Rust's new async/await syntax
-- using hadwritten state machines
-@ulend
+- an asynchronous "non-blocking" bounded spsc channel <br>
+using Rust's new async/await syntax <br>
+using hadwritten state machines
 
 - a "blocking" bounded spsc channel
 using @css[font-source-sans-pro](std::sync::Condvar)
