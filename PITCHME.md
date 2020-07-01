@@ -512,12 +512,19 @@ My spsc channel is not thread-safe
 i.e. it is **!Send** and **!Sync**
 
 ---
-
-|executor 	|channel 	| Core2 Quad (1000)	| Core2 Quad (2000)	| 	
+|executor 	|channel 	|Core2 Quad (1000)	|Core2 Quad (2000)	| 	
 |:-------------:|:-------------:|:---------------------:|:---------------------:|
 |mt 		|sync 		|240 ms 		|690 ms 		|
 |mt		|no sync	|- 			|- 			|
-|st		|sync 		|180 ms 		|1 s 			|
+|st		|sync 		|180 ms 		|730 ms 		|
+|st 		|no sync	|**90 ms**		|**350 ms** 		|
+
+---
+|executor 	|channel 	|E7-4880 4/60/120 (1000)|E7-4880 4/60/120 (2000)| 	
+|:-------------:|:-------------:|:---------------------:|:---------------------:|
+|mt 		|sync 		|240 ms 		|690 ms 		|
+|mt		|no sync	|- 			|- 			|
+|st		|sync 		|180 ms 		|730 ms 		|
 |st 		|no sync	|**90 ms**		|**350 ms** 		|
 
 ---
