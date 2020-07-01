@@ -565,7 +565,7 @@ i.e. it is **!Send** and **!Sync**
 
 <br>
 @css[fragment](And, by the way, this is what now the Rust compiler does uner the hood as well..)
-@css[fragment](it **turns an @css[font-source-sans-pro-medium](async fn) into a normal function returning a state machine**.)
+@css[fragment](it **turns an @css[font-source-sans-pro](async fn) into a normal function returning a state machine**.)
 
 ---
 ## async transform
@@ -586,6 +586,36 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @[1,4]
 
 ---
+## What did I implement? (lib)
+
+Library stuff
+
+an asynchronous signle threaded executor
+
+an asynchronous "non-blocking" bounded spsc channel
+using Rust's new async/await syntax
+using hadwritten state machines
+
+a "blocking" bounded spsc channel
+using @css[font-source-sans-pro](std::sync::Condvar)
+using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark)
+
+---
+## What did I implement? (lib)
+
+Library stuff
+
+an asynchronous signle threaded executor
+
+an asynchronous "non-blocking" bounded spsc channel using Rust's new async/await syntax
+
+the same asynchronous "non-blocking" bounded spsc channel without async/await using hadwritten state machines
+
+2 bounded "blocking" spsc channels
+one with std::sync::Condvar
+the other
+
+
 
 
 
