@@ -612,6 +612,28 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
+## What did I implement? (benchmarking)
+
+@ul
+- @css[text-09](Benchmarks for Rust with @css[font-source-sans-pro](Criterion))
+- @css[text-09](Benchmarks for GO with the official @css[font-source-sans-pro](testing) package)
+
+@ulend
+
+---
+## What did I experiment with? (benchmarking)
+
+@ul
+- @css[text-09](the Unix @css[font-source-sans-pro](time) command)
+- @css[text-09]((linux) shell scripting)
+- @css[text-09](hyperfine (benchmarking))
+- @css[text-09](handwritten benchmarks)
+- @css[text-09](tmux (for running long tests on remote machines))
+
+@ulend
+
+---
+
 
 ## What did I implement?
 
