@@ -592,7 +592,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - an asynchronous signle threaded executor
 
 - an asynchronous "non-blocking" bounded spsc channel
-@ul
+@ul[list-no-bullets]
 - using Rust's new async/await syntax
 - using hadwritten state machines
 @ulend
