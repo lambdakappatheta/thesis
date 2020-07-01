@@ -366,7 +366,7 @@ Visual simulation of the concurrent sieve
 |executor 	|channel 	| any good? 	| 	
 |:-------------:|:-------------:|:-------------:|
 |mt 		|sync 		|yes 		|
-|mt 		|no sync	|*race condition*	|
+|mt 		|no sync	|**race condition**	|
 |st 		|sync 		|unnecessary	|
 |st 		|no sync	|yes 		|
 
