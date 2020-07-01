@@ -605,7 +605,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
   - @css[text-08](using the various asynchronous libraries available)
   - @css[text-08](using my own executor and channel)
   - @css[text-08](using handwritten state machines)
-  - @css[text-08](using the @css[font-source-sans-pro](std::thread) library)
+  - @css[text-08](using the @css[font-source-sans-pro](std::thread) library and my multi threaded channels)
 - @css[text-09](The sequential sieve algorith)
 
 @ulend
