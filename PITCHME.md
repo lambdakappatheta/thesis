@@ -540,9 +540,7 @@ i.e. it is **!Send** and **!Sync**
 ![IMAGE](assets/img/asynchronousRust.png)
 
 ---
-## Benchmarking
-
-Axes
+## Axes
 
 @ul
 - executor
