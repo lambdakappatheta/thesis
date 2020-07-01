@@ -590,7 +590,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 @ul
 - @css[text-10](an asynchronous signle threaded executor)
-- @css[text-10](an asynchronous "non-blocking" bounded spsc channel)
+- @css[text-09](an asynchronous "non-blocking" bounded spsc channel)
   - @css[text-08](using Rust's new async/await syntax)
   - @css[text-08](using hadwritten state machines)
 - a "blocking" bounded spsc channel
