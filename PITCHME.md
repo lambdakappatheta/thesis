@@ -557,9 +557,11 @@ i.e. it is **!Send** and **!Sync**
 ---
 @css[text-12](Async-await debuted on stable Rust in November 2019..)
 
-@css[fragment text-orange](So what did folks do before?)
+<br>
+@css[fragment text-12 text-orange](So what did folks do before?)
 
-@css[fragment](They wrote **state machines**!)
+<br>
+@css[fragment text-12](They wrote **state machines**!)
 
 ---
 
