@@ -497,9 +497,9 @@ async_std's mpmc channel is @css[text-green](thread-safe):
 - async_std::sync::Receiver is **Send** and **Sync**
 @ulend
 
+<br><br>
 @css[fragment](my spsc channel is @css[text-orange](not thread-safe))
 
-<br><br>
 @ul[list-no-bullets]
 - spsc::Sender is **!Send** and **!Sync**
 - spsc::Receiver is **!Send** and **!Sync**
