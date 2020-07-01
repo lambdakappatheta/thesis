@@ -564,8 +564,8 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment text-12](They wrote **state machines**!)
 
 <br>
-@css[fragment](And, by the way, this is what now the Rust compiler does uner the hood *as well..)
-@css[fragment](it turns an *async fn* into a normal function returning a state machine)
+@css[fragment](And, by the way, this is what now the Rust compiler does uner the hood as well..)
+@css[fragment](it turns an @css[font-source-sans-pro](async fn) into a normal function returning a state machine)
 
 ---
 
