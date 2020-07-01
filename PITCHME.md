@@ -555,7 +555,7 @@ i.e. it is **!Send** and **!Sync**
 @css[fragment](**4 ms**)
 
 ---
-Async-await debuted on stable Rust in November 2019..
+@css[text-18](Async-await debuted on stable Rust in November 2019..)
 
 @css[fragment text-orange](So what did folks do before?)
 
