@@ -592,9 +592,9 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 @css[fragment text-left](an asynchronous "non-blocking" bounded spsc channel)
 
-@css[fragment text-left](using Rust's new async/await syntax)
+@css[fragment text-09 text-left](using Rust's new async/await syntax)
 
-@css[fragment text-left](using hadwritten state machines)
+@css[fragment text-09 text-left](using hadwritten state machines)
 
 @css[fragment text-left](a "blocking" bounded spsc channel)
 
