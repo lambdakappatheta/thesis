@@ -559,7 +559,7 @@ i.e. it is **!Send** and **!Sync**
 
 @css[fragment text-orange](So what did folks do before?)
 
-@css[fragment](They wrote state machines!)
+@css[fragment](They wrote **state machines**!)
 
 ---
 
