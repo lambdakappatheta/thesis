@@ -570,6 +570,7 @@ i.e. it is **!Send** and **!Sync**
 ---
 ## async transform
 
+<br>
 ```rust
 async fn foo() -> Vec<i32> {
 	/ *Implementation */
