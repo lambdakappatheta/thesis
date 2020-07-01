@@ -529,8 +529,7 @@ i.e. it is **!Send** and **!Sync**
 
 ---
 There are 4 main asynchronous Rust libraries:
-
-@ul[list-spaced-bullets]
+@ul
 - async-std
 - tokio
 - async-task
