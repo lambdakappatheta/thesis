@@ -476,6 +476,7 @@ where
 ```
 
 @[3,4]
+@[1,3-4]
 
 <br>
 @css[fragment](since async-std v1.6.0)
