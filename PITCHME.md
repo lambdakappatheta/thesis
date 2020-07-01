@@ -466,16 +466,6 @@ The **Send** @css[text-orange](*marker trait*) indicates that ownership of the t
 @snapend
 
 ```rust
-pub fn spawn<F, T>(future: F) -> JoinHandle<T>
-where
-    F: Future<Output = T> + Send + 'static,
-    T: Send + 'static,
-{
-    /* Implementation */
-}
-```
-@snap[fragment]
-```rust
 pub fn spawn_local<F, T>(future: F) -> JoinHandle<T>
 where
     F: Future<Output = T> + 'static,
@@ -485,9 +475,10 @@ where
 }
 ```
 
-@[3-4,10-11]
-@snapend
+@[3]
+@[4]
 
+@css[fragment](since async-std v1.6.0 (May 23))
 ---
 
 
