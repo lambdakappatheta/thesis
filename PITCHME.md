@@ -590,7 +590,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 @ul
 - @css[text-09](an asynchronous signle threaded executor)
-- @css[text-09](an asynchronous "non-blocking" bounded spsc channel)
+- @css[text-09](an asynchronous "non-blocking" single threaded bounded spsc channel)
   - @css[text-08](using Rust's new async/await syntax)
   - @css[text-08](using hadwritten state machines)
 - @css[text-09](a "blocking" bounded spsc channel)
@@ -633,37 +633,6 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
-
-
-## What did I implement?
-
-- @css[fragment text-left](an asynchronous signle threaded executor)
-
-- @css[fragment text-left](an asynchronous "non-blocking" bounded spsc channel)
-
-  - @css[fragment text-09 text-left](using Rust's new async/await syntax)
-
-  - @css[fragment text-09 text-left](using hadwritten state machines)
-
-- @css[fragment text-left](a "blocking" bounded spsc channel)
-
-- @css[fragment text-left](using @css[font-source-sans-pro](std::sync::Condvar))
-
-- @css[fragment text-left](using @css[font-source-sans-pro](std::thread::park) and @css[font-source-sans-pro](std::thread::Thread::unpark))
----
-## What did I implement? (lib)
-
-Library stuff
-
-an asynchronous signle threaded executor
-
-an asynchronous "non-blocking" bounded spsc channel using Rust's new async/await syntax
-
-the same asynchronous "non-blocking" bounded spsc channel without async/await using hadwritten state machines
-
-2 bounded "blocking" spsc channels
-one with std::sync::Condvar
-the other
 
 
 
