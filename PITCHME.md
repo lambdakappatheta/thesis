@@ -475,10 +475,10 @@ where
 }
 ```
 
-@[3]
-@[4]
+@[3,4]
 
-@css[fragment](since async-std v1.6.0 _May 23_)
+<br>
+@css[fragment](since async-std v1.6.0)
 ---
 
 
