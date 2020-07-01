@@ -478,7 +478,7 @@ where
 @[3]
 @[4]
 
-@css[fragment](since async-std v1.6.0 (May 23))
+@css[fragment]("since async-std v1.6.0 (May 23)")
 ---
 
 
