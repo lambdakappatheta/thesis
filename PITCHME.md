@@ -633,6 +633,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## What the slides do not cover?
 
+@snap[west span-50]
 @ul
 - @css[text-09](Rust's unique features)
   - @css[text-08](ownership and borrowing)
@@ -640,6 +641,8 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - @css[text-09](corountines in general)
 - @css[text-09](generators in general)
 - @css[text-09](state machines in general)
+@snapend
+@snap[east span-50]
 - @css[text-09](@css[font-source-sans-pro](std::future::Future))
 - @css[text-09](@css[font-source-sans-pro](std::pin::Pin))
 - @css[text-09](@css[font-source-sans-pro](std::task::Context))
@@ -648,6 +651,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - @css[text-09](@css[font-source-sans-pro](std::thread_local))
 - @css[text-09](@css[font-source-sans-pro](std::ops::Generator))
 @ulend
+@snapend
 
 ---
 
