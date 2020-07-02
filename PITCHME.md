@@ -43,7 +43,7 @@
 <br>
 
 @ul[list-no-bullets text-08]
-- Goal: @css[fragment](Find the first *n* prime numbers)
+- Goal: @css[fragment](Find the first `n` prime numbers)
 @ulend
 
 <br>
@@ -51,8 +51,8 @@
 - Algorithm:
 - Keep the primes found so far in an array `primes`.
 - Consider all positive integers one by one starting from 2.
-- **If a number *num* is not divisible by any of the primes found so far, then *num* is a prime**!
-- Add *num* to *primes* and continue until *n* primes have been found.
+- **If a number `num` is not divisible by any of the primes found so far, then `num` is a prime**!
+- Add `num` to `primes` and continue until `n` primes have been found.
 @ulend
 
 ---
