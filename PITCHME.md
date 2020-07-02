@@ -738,7 +738,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @[2,6]
 @[10]
 @[12]
-@[4-8](@css[font-source-sans-pro](closure may outlive the current function, but it borrows `n`, which is owned by the current function))
+@[4-8,10](@css[font-source-sans-pro](closure may outlive the current function, but it borrows `n`, which is owned by the current function))
 
 ---
 
