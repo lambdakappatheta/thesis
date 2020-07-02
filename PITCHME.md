@@ -249,22 +249,31 @@ One worker per task?!
 ## Concurrency without parallelism
 
 ---
+@snap[north span-100]
 Write an essay, clean your place and bake a cake.
+@snapend
 
-@ul[list-no-bullets]
+@snap[west]
+@ul[list-no-bullets text-08]
 - Task 1.1: brainstorm
 - Task 1.2: write the introduction
 - Task 1.3: write the main part
-- Task 1.4: write the conclusion
+- Task 1.4: write the summary
+@ulend
+@snapend
+
+@snap[east]
+@ul[list-no-bullets text-08]
 - Task 2.1: clean downstairs
 - Task 2.2: clean upstairs
 - Task 2.3: clean the basement
-- Task 2.3: clean the attic
-- Task 3.3: buy the ingredients
+- Task 2.4: clean the attic
+- Task 3.1: buy the ingredients
 - Task 3.2: prepare the cake
 - Task 3.3: put the cake in the oven and wait till it's done
 - Task 3.4: finish the cake
 @ulend
+@snapend
 
 ---?code=rust/async-await-channel/src/lib.rs&lang=rust
 @snap[north-east]
