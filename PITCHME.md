@@ -182,9 +182,9 @@ Rust is about one magnitude **slower** than GO
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s18.jpg)
 
 @ul
-load the cart
-carry the cart
-load the incinerator
+- load the cart
+- carry the cart
+- load the incinerator
 @ulend
 
 ---
