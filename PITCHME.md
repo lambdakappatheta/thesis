@@ -206,11 +206,12 @@ Rust is about one magnitude **slower** than GO
 ---
 The more people are around, the faster the process!
 
+<br>
 @css[fragment](Good **concurrent** design allows you to:)
 
 @css[fragment](Sit back, buy new hardware and watch your program run faster!)
 
-@css[fragment]((like in the Good Ol' Days)
+@css[fragment](like in the Good Ol' Days..)
 
 ---
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
