@@ -698,6 +698,8 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 @css[fragment](new features)
  
+@css[fragment](incomplete documentation)
+
 ---
 ## Axes
 
