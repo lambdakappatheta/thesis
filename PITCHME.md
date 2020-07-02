@@ -165,12 +165,12 @@ Rust is about one magnitude **slower** than GO
 ## Parallelism is about execution
 
 ---
-## burn the books
+## Burn the books
 
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s12.jpg)
 
 ---
-## a friend drops by
+## A friend drops by
 
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
 
