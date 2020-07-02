@@ -356,7 +356,9 @@ Trade-off
 With only a handful of threads, the concurrent sieve might benefit more from less synchronisation than from parallelism.
 
 ---
-Concurrency without Parallelism
+@snap[text-10]
+## Concurrency without Parallelism
+@snapend
 
 Visual simulation of the concurrent sieve
 
