@@ -340,11 +340,11 @@ CPU usage looks the same
 ---
 ## Synchronisation is expensive
 
-Trade-off:
+@css[text-11](Trade-off)
 
-@css[fragment text-11](Cost for Synchronisation)
-@css[fragment text-11](vs )
-@css[fragment text-11](Gain from Parallelism)
+@css[fragment](Cost for Synchronisation)
+@css[fragment](vs )
+@css[fragment](Gain from Parallelism)
 
 @css[fragment text-11](twice as many workers ?= doubled throughput)
 
