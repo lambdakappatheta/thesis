@@ -657,14 +657,29 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @snapend
 
 ---
-## Challenges
+## Challenges (Benchmarking) 
 
 @ul
-- @css[text-09](Benchmarking)
-  - @css[text-08](correctness)
-  - @css[text-08](extremely time consuming - especially the longer ones)
+- correctness
+- extremely time consuming - especially the longer ones
+  
+---
+## Axes
 
-<br>
+@css[fragment](executor)
+
+@css[fragment](channel)
+
+@css[fragment](number of primes)
+
+@css[fragment](capacity)
+
+@css[fragment](CPU)
+
+---
+## Challenges (Duplicate Code) 
+@css[fragment](executor: async-std, channel: async-std <br> executor: async-std, channel: tokio)
+@ul
 - @css[text-09](Duplicate Code)
   - @css[text-08](executor: async-std, channel: async-std)
   - @css[text-08](executor: async-std, channel: tokio)
@@ -673,7 +688,19 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - @css[text-09]()
 @ulend
 
+Dynamic ecosystem
   
+## Axes
+
+@css[fragment](executor)
+
+@css[fragment](channel)
+
+@css[fragment](number of primes)
+
+@css[fragment](capacity)
+
+@css[fragment](CPU)
 
 
 
