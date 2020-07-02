@@ -334,15 +334,15 @@ Write an essay, clean your place and bake a cake.
 
 ---
 ## GO
-![go-cpu](assets/img/cpu/go-cpu.jpg)
+![go-cpu](assets/img/cpu/go-cpu2.jpg)
 
 ---
 ## Rust (thread)
-![go-cpu](assets/img/cpu/rust-thread-cpu.jpg)
+![rust-thread-cpu](assets/img/cpu/rust-thread-cpu.jpg)
 
 ---
 ## Rust (task)
-![go-cpu](assets/img/cpu/tust-task-cpu.jpg)
+![rust-task-cpu](assets/img/cpu/rust-task-cpu.jpg)
 
 ---
 ## Parallelism
