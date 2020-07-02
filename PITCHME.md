@@ -733,7 +733,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment](incomplete documentations)
 
 ---
-# Fun with Rust
+# "Fun" with Rust
 
 ---?code=synchronization/counter/src/two.rs&lang=rust
 @snap[north-east]
