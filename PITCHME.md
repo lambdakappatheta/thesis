@@ -322,6 +322,8 @@ Write an essay, clean your place and bake a cake.
 @css[fragment](This code can be run on a **single CPU** but can also make use of **multiple cores** if available.)
 
 ---
+## Results
+
 | 	|GO 	|Rust (thread) 	|Rust (task) 	| 	
 |-------|:-----:|:-------------:|:-------------:|
 |100 	|2.5 ms	|35 ms 		|4.5 ms 	|
