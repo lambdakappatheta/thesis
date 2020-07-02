@@ -677,7 +677,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment](CPU)
 
 ---
-@snap[span-100 text-07]
+@snap[span-100 text-08]
 ## Challenges (Duplicate Code) 
 @snapend
 
