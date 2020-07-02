@@ -349,7 +349,9 @@ Trade-off
 @css[fragment](twice as many workers ?= doubled throughput)
 
 ---
-Concurrency without Parallelism
+snap[text-10]
+## Concurrency without Parallelism
+@snapend
 
 With only a handful of threads, the concurrent sieve might benefit more from less synchronisation than from parallelism.
 
