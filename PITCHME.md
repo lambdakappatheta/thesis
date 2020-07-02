@@ -714,7 +714,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment](CPU)
 
 ---
-@snap[span-100 text-12]
+@snap[span-100 text-10]
 # Fun with Rust
 @snapend
 
