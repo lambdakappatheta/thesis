@@ -698,7 +698,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 @css[fragment](new features)
  
-@css[fragment](incomplete documentation)
+@css[fragment](incomplete documentations)
 
 ---
 ## Axes
@@ -712,6 +712,9 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment](capacity)
 
 @css[fragment](CPU)
+
+---
+# Fun with Rust
 
 
 
