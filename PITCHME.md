@@ -739,7 +739,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## Sources
 
-@ul[list-no-bullets text-07](fasle)
+@ul[list-no-bullets text-06](fasle)
 - Concurrent Prime Sieve (GO)
 - https://play.golang.org/p/9U22NfrXeq
 - A Tour of Go
