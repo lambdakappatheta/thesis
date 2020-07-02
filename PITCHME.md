@@ -691,12 +691,9 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @snap[span-100 text-06]
 ## Challenges (Dynamic Ecosystem) 
 @snapend
-
-@ul
-  - rough edges
-  - unstable features
-  - new fetures
-@ulend
+@css[fragment](rough edges)
+@css[fragment](unstable features)
+@css[fragment](new features)
  
 ---
 ## Axes
