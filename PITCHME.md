@@ -278,7 +278,7 @@ Write an essay, clean your place and bake a cake.
 @snapend
 
 ---
-## Concurrency is great!!!
+## Concurrency is great no matter what!!!
 
 ---
 ## Concurrency with Rust's async/await syntax
