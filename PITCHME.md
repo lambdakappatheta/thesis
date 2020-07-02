@@ -49,10 +49,10 @@
 <br>
 @ul[list-no-bullets text-08]
 - Algorithm:
-- Keep the primes found so far in an array `primes`.
-- Consider all positive integers one by one starting from 2.
+- Keep the primes found so far in an array `primes`
+- Consider all positive integers one by one starting from 2
 - **If a number `num` is not divisible by any of the primes found so far, then `num` is a prime**!
-- Add `num` to `primes` and continue until `n` primes have been found.
+- Add `num` to `primes` and continue until `n` primes have been found
 @ulend
 
 ---
@@ -165,21 +165,23 @@ Rust is about one magnitude **slower** than GO
 ## Parallelism is about execution
 
 ---
+## burn the books
+
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s12.jpg)
 
-burn the books
-
 ---
-![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
+## a friend drops by
 
-a friend drops by
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
 
 ---
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s18.jpg)
 
+@ul
 load the cart
 carry the cart
 load the incinerator
+@ulend
 
 ---
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s19.jpg)
@@ -188,6 +190,12 @@ load the cart
 carry the loaded cart
 return the empty cart
 load the incinerator
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s24.jpg)
+
+---
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s26.jpg)
 
 ---
 The more people are around, the faster the process goes.
