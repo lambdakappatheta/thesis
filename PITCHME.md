@@ -631,7 +631,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
-@snap[north span-100 text-12]
+@snap[north span-100 text-08]
 ## What the slides do not cover?
 @snapend
 
