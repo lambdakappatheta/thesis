@@ -714,12 +714,33 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment](CPU)
 
 ---
-@snap[span-100 text-10]
 # Fun with Rust
+
+---?code=synchronization/counter/src/two.rs&lang=rust
+@snap[north-east]
+## Rust
 @snapend
 
----
+@[2]
+@[4-8]
+@[9-13]
+@[2,6,11]
+@[15-16]
+@[18]
 
+---?code=synchronization/counter/src/one.rs&lang=rust
+@snap[north-east]
+## Rust
+@snapend
+
+@[2]
+@[4-8]
+@[2,6]
+@[10]
+@[12]
+@[4-8](@css[font-source-sans-pro](closure may outlive the current function, but it borrows `n`, which is owned by the current function))
+
+---
 
 
 

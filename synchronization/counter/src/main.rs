@@ -1,3 +1,7 @@
+fn main() {
+    counter::one::counter();
+}
+
 /*
 fn main() {
     let mut n = 0;
@@ -16,6 +20,7 @@ fn main() {
 */
 
 
+/*
 fn main() {
     let mut n = 0;
     let s;
@@ -33,6 +38,7 @@ fn main() {
 
     println!("{}", n);
 }
+*/
 
 
 /*
