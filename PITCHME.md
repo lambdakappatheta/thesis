@@ -254,11 +254,11 @@ Write an essay, clean your place and bake a cake.
 @snapend
 
 @snap[west]
-@ul[list-no-bullets span-80 text-08]
-- Task 1.1: brainstorm
-- Task 1.2: write the introduction
-- Task 1.3: write the main part
-- Task 1.4: write the summary
+@ul[list-no-bullets span-70 text-08]
+- @css[text-orange](Task 1.1: brainstorm)
+- Task 1.2: introduction
+- Task 1.3: main part
+- Task 1.4: summary
 @ulend
 @snapend
 
