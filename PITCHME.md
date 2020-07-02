@@ -204,13 +204,15 @@ Rust is about one magnitude **slower** than GO
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s26.jpg)
 
 ---
-The more people are around, the faster the process goes.
+The more people are around, the faster the process goes!!!
 
 Single core performance has reached its limits.
 But the number of cores in a single processor has been increasing rapidly.
 
-Good (concurrent) design allows you to:
+(Good) **concurrent** design allows you to:
+
 Sit back, buy new hardware and watch your program run faster!
+
 (like in the Good Ol' Days)
 
 ---
