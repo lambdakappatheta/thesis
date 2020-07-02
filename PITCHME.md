@@ -264,6 +264,7 @@ Write an essay, clean your place and bake a cake.
 - Task 3.2: prepare the cake
 - Task 3.3: put the cake in the oven and wait till it's done
 - Task 3.4: finish the cake
+@ulend
 
 ---?code=rust/async-await-channel/src/lib.rs&lang=rust
 @snap[north-east]
