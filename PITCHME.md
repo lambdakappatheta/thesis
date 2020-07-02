@@ -716,6 +716,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 # Fun with Rust
 
+---
 
 
 
