@@ -659,10 +659,9 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## Challenges (Benchmarking) 
 
-@ul[list-spaced-bullets]
-- correctness
-- extremely time consuming - esp. the longer ones
-@ulend
+@css[fragment](correctness)
+
+@css[fragment](extremely time consuming - esp. the longer ones)
   
 ---
 ## Axes
