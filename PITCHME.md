@@ -165,12 +165,16 @@ Rust is about one magnitude **slower** than GO
 ## Parallelism is about execution
 
 ---
+@snap[north-west]
 ## Burn the books
+@snapend
 
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s12.jpg)
 
 ---
+@snap[north-west]
 ## A friend drops by
+@snapend
 
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s13.jpg)
 
