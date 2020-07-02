@@ -362,6 +362,9 @@ With only a handful of threads, the concurrent sieve might benefit more from les
 
 @css[text-12](Visual simulation of the concurrent sieve)
 
+---
+## Channels hide the synchronization
+
 ---?code=rust/async-await-sieve/src/lib.rs&lang=rust
 @snap[north-east]
 ## Rust
