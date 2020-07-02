@@ -1,14 +1,13 @@
 ## Concurrent programming in Rust and Go
 
 ---
-## Sieve of Eratosthenes
+## Prime Sieve
 
 ---
 @snap[north span-100]
 ## Sieve of Eratosthenes
 @snapend
-The classic version
-<br>
+
 @ul[list-no-bullets text-08]
 - Goal: Find all the prime numbers between 2 and *x*
 - <br>
