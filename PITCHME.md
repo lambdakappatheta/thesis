@@ -631,7 +631,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
-@snap[north span-100 text-08]
+@snap[north span-100 text-07]
 ## What the slides do not cover?
 @snapend
 
@@ -645,6 +645,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - @css[text-09](state machines in general)
 @snapend
 @snap[east span-50]
+@ul
 - @css[text-09](@css[font-source-sans-pro](std::future::Future))
 - @css[text-09](@css[font-source-sans-pro](std::pin::Pin))
 - @css[text-09](@css[font-source-sans-pro](std::task::Context))
