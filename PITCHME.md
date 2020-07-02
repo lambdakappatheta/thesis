@@ -256,22 +256,22 @@ Write an essay, clean your place and bake a cake.
 @snap[west]
 @ul[list-no-bullets text-08]
 - @css[text-orange](Task 1.1: brainstorm)
-- Task 1.2: introduction
-- Task 1.3: main part
-- Task 1.4: summary
+- @css[text-orange](Task 1.2: introduction)
+- @css[text-orange](Task 1.3: main part)
+- @css[text-orange](Task 1.4: summary)
 @ulend
 @snapend
 
 @snap[east]
 @ul[list-no-bullets span-70 text-08]
-- Task 2.1: clean downstairs
-- Task 2.2: clean upstairs
-- Task 2.3: clean the basement
-- Task 2.4: clean the attic
-- Task 3.1: buy the ingredients
-- Task 3.2: prepare the cake
-- Task 3.3: put the cake in the oven and wait
-- Task 3.4: finish the cake
+- @css[text-green](Task 2.1: clean downstairs)
+- @css[text-green](Task 2.2: clean upstairs)
+- @css[text-green](Task 2.3: clean the basement)
+- @css[text-green](Task 2.4: clean the attic)
+- @css[text-blue](Task 3.1: buy the ingredients)
+- @css[text-blue](Task 3.2: prepare the cake)
+- @css[text-blue](Task 3.3: put the cake in the oven and wait)
+- @css[text-blue](Task 3.4: finish the cake)
 @ulend
 @snapend
 
