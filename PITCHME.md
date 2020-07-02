@@ -692,7 +692,12 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ## Challenges (Dynamic Ecosystem) 
 @snapend
 
-  
+@ul
+  - rough edges
+  - unstable features
+  - new fetures
+@ulend
+ 
 ---
 ## Axes
 
