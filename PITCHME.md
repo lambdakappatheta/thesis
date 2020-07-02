@@ -249,31 +249,21 @@ One worker per task?!
 ## Concurrency without parallelism
 
 ---
-Concurrency revisited
-
 Write an essay, clean your place and bake a cake.
 
-Possible structures:
-1)
-Task 1: write an essay
-Task 2: clean your place
-Task 3: bake a cake
-
-2)
-Task 1.1: brainstorm
-Task 1.2: write the introduction
-Task 1.3: write the main part
-Task 1.4: write the conclusion
-Task 2.1: clean downstairs
-Task 2.2: clean upstairs
-Task 2.3: clean the basement
-Task 2.3: clean the attic
-Task 3.3: buy the ingredients
-Task 3.2: prepare the cake
-Task 3.3: put the cake in the oven and wait till it's done
-Task 3.4: finish the cake
-
-The main benefit of this structure is
+@ul[list-no-bullets]
+- Task 1.1: brainstorm
+- Task 1.2: write the introduction
+- Task 1.3: write the main part
+- Task 1.4: write the conclusion
+- Task 2.1: clean downstairs
+- Task 2.2: clean upstairs
+- Task 2.3: clean the basement
+- Task 2.3: clean the attic
+- Task 3.3: buy the ingredients
+- Task 3.2: prepare the cake
+- Task 3.3: put the cake in the oven and wait till it's done
+- Task 3.4: finish the cake
 
 ---?code=rust/async-await-channel/src/lib.rs&lang=rust
 @snap[north-east]
