@@ -754,6 +754,7 @@ https://rust-lang.github.io/async-book/
 https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html
 - MapReduce
 https://www.oreilly.com/library/view/distributed-computing-in/9781787126992/5fef6ce5-20d7-4d7c-93eb-7e669d48c2b4.xhtml
+@ulend
 
 
 
