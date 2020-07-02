@@ -239,9 +239,11 @@ The more people are around, the faster the process!
 @css[fragment](Too many tasks and too few workers?)
 
 ---
-Ideally, the concurrent sieve algorithm implemented with threads will get blazingly fast in the future because there will be enough hardware parallelism available to assign each task to a dedicated computational unit. 
+## Future-Proof
 
-But for the time being, we would still like to be able to write a relatively efficient version of the concurrent sieve algorithm. Looking at GO's performance, it is obvious that there must be a way to improve Rust's performance!
+One worker per task?!
+
+@css[fragment](In the meanwhile?)
 
 ---
 Concurrency revisited
