@@ -9,15 +9,15 @@
 @snapend
 
 @ul[list-no-bullets text-08]
-- Goal: Find all the prime numbers between 2 and *x*
+- Goal: Find all the prime numbers between 2 and `x`
 @ulend
 
 <br>
 @ul[list-no-bullets text-08]
 - Algorithm:
-- Create an array containing all positive integers between 2 and *x*.
+- Create an array containing all positive integers between 2 and `x`.
 - Consider each number in the array from smallest to largest.
-- **If the next number *num* is unmarked, then *num* is a prime**! Mark all the multiples of *num* in the array!
+- **If the next number `num` is unmarked, then `num` is a prime**! Mark all the multiples of `num` in the array!
 - Repeat until all elements of the array have been considered.
 
 @ulend
