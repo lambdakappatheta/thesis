@@ -278,7 +278,7 @@ Write an essay, clean your place and bake a cake.
 @snapend
 
 ---
-## Concurrency with Rust's async/await sytax
+## Concurrency is great!!!
 
 ---?code=rust/async-await-channel/src/lib.rs&lang=rust
 @snap[north-east]
