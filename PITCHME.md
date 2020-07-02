@@ -328,21 +328,33 @@ Write an essay, clean your place and bake a cake.
 |1000 	|180 ms	|2.25 s		|240 ms 	|
 
 ---
-CPU usage looks the same
+## CPU usage
+
+---
+## GO
+![go-cpu](assets/img/cpu/go-cpu.jpg)
+
+---
+## Rust (thread)
+![go-cpu](assets/img/cpu/rust-thread-cpu.jpg)
+
+---
+## Rust (task)
+![go-cpu](assets/img/cpu/tust-task-cpu.jpg)
 
 ---
 ## Parallelism
 
 @css[text-12](Pro: Throughput)
 
-@css[text-12](Con: Synchronisation)
+@css[text-12](Con: Synchronization)
 
 ---
-## Synchronisation is expensive
+## Synchronization is expensive
 
 Trade-off
 
-@css[fragment](Cost for Synchronisation)
+@css[fragment](Cost for Synchronization)
 
 @css[fragment](Gain from Parallelism)
 
@@ -353,7 +365,7 @@ Trade-off
 ## Concurrency without Parallelism
 @snapend
 
-With only a handful of threads, the concurrent sieve might benefit more from less synchronisation than from parallelism.
+With only a handful of threads, the concurrent sieve might benefit more from less synchronization than from parallelism.
 
 ---
 @snap[text-10]
