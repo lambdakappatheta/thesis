@@ -333,9 +333,9 @@ CPU usage looks the same
 ---
 ## Parallelism
 
-Pro: Throughput
+@css[text-12](Pro: Throughput)
 
-Con: Synchronisation
+@css[text-12](Con: Synchronisation)
 
 ---
 Synchronisation is expensive
