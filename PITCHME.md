@@ -544,12 +544,6 @@ async_std's mpmc channel is @css[text-green](thread-safe)
 @ulend
 
 ---
-## SPSC
-
-My spsc channel is not thread-safe
-i.e. it is **!Send** and **!Sync**
-
----
 |executor 	|channel 	|Core2 Quad (1000)	|Core2 Quad (2000)	| 	
 |:-------------:|:-------------:|:---------------------:|:---------------------:|
 |mt 		|sync 		|240 ms 		|690 ms 		|
