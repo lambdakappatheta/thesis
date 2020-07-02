@@ -739,9 +739,8 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## Sources
 
-@ul
-- Concurrent Prime Sieve (GO)
-https://play.golang.org/p/9U22NfrXeq
+@ul[](fasle)
+- Concurrent Prime Sieve (GO) https://play.golang.org/p/9U22NfrXeq
 - A Tour of Go
 https://tour.golang.org/list
 - Rob Pike's talk: "Concurrency is not parallelism"
