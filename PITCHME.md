@@ -417,7 +417,7 @@ We already have this!
 |st 		|no sync	|yes 			|
 
 <br><br>
-@css[text-orange](**Impossible in *safe* Rust!**)
+@css[text-orange](Impossible in *safe* Rust!)
 
 +++
 |executor 	|channel 	| any good? 		| 	
