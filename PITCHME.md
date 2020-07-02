@@ -229,7 +229,7 @@ The more people are around, the faster the process!
 ![IMAGE](assets/img/ConcurrencyIsNotParallelism/s22.jpg)
 
 ---
-Let's get realistic
+## Let's get realistic
 
 @css[fragment](Too many workers and too few tasks?)
 
