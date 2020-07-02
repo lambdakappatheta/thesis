@@ -701,19 +701,6 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @css[fragment](incomplete documentations)
 
 ---
-## Axes
-
-@css[fragment](executor)
-
-@css[fragment](channel)
-
-@css[fragment](number of primes)
-
-@css[fragment](capacity)
-
-@css[fragment](CPU)
-
----
 # Fun with Rust
 
 ---?code=synchronization/counter/src/two.rs&lang=rust
