@@ -724,10 +724,9 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @[2]
 @[4-8]
 @[9-13]
-@[2,6,11,18]
+@[2,6,11,17]
 @[15-16]
 @[17]
-
 
 ---?code=synchronization/counter/src/one.rs&lang=rust
 @snap[north-east]
