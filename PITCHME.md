@@ -737,7 +737,6 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @[4-8]
 @[2,6, 12]
 @[10]
-@[12]
 @[4-8,10]("closure may outlive the current function, but it borrows `n`, which is owned by the current function")
 
 ---?code=synchronization/counter/src/danger.rs&lang=rust
@@ -745,7 +744,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ## Rust
 @snapend
 
-@[4-6]
+@[6-8]
 
 ---
 
