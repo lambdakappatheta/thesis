@@ -678,7 +678,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 ---
 ## Challenges (Duplicate Code) 
-@css[fragment](executor: async-std, channel: async-std <br> executor: async-std, channel: tokio)
+@css[fragment](executor: async-std, channel: async-std <br> executor: async-std, channel: tokio    )
 @ul
 - @css[text-09](Duplicate Code)
   - @css[text-08](executor: async-std, channel: async-std)
