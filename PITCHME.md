@@ -280,6 +280,9 @@ Write an essay, clean your place and bake a cake.
 ---
 ## Concurrency is great!!!
 
+---
+## Concurrency with Rust's async/await syntax
+
 ---?code=rust/async-await-channel/src/lib.rs&lang=rust
 @snap[north-east]
 ## Rust
