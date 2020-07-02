@@ -231,9 +231,11 @@ The more people are around, the faster the process!
 ---
 Let's get realistic
 
-So far we were concerned with having too many workers but too few tasks to keep all of them busy. Therefore we needed to split up complex tasks into smaller (partially) independent pieces.
+@css[fragment](Too many workers and too few tasks?)
 
-But for many years, computer scientists have had the problem of having too few workers and a lot of tasks to run. Actually even nowadays, the best affordable chips still do not have more than a few dozens of cores.
+@css[fragment](or)
+
+@css[fragment](Too many tasks and too few workers?)
 
 ---
 Ideally, the concurrent sieve algorithm implemented with threads will get blazingly fast in the future because there will be enough hardware parallelism available to assign each task to a dedicated computational unit. 
