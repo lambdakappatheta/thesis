@@ -338,13 +338,15 @@ CPU usage looks the same
 @css[text-12](Con: Synchronisation)
 
 ---
-Synchronisation is expensive
+## Synchronisation is expensive
 
-trade-off:
-- cost for synchronisation
-- gain from parallelism
+Trade-off:
 
-twice as many workers ?= doubled throughput
+@css[fragment](Cost for Synchronisation)
+
+@css[fragment](Gain from Parallelism)
+
+@css[fragment](twice as many workers ?= doubled throughput)
 
 ---
 Concurrency without Parallelism
