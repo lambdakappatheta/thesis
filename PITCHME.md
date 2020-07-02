@@ -657,6 +657,21 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @snapend
 
 ---
+## Challenges
+
+@ul
+- Benchmarking
+  - correctness
+  - extremely time consuming (especially the longer ones)
+- Duplicate Code
+  - executor: async-std, channel: async-std
+  - executor: async-std, channel: tokio
+  - remove duplicate code without affecting the benchmarks
+@ulend
+
+  
+
+
 
 
 
