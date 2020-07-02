@@ -331,9 +331,10 @@ Write an essay, clean your place and bake a cake.
 CPU usage looks the same
 
 ---
-Parallelism
+## Parallelism
 
 pro: throughput
+
 con: synchronisation
 
 ---
