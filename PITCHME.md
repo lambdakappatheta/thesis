@@ -442,6 +442,9 @@ Nonsensical
 There is no such channel in the popular libraries..
 
 ---
+## Fearless concurrency with Rust
+
+---
 @snap[north-east]
 ## Rust
 @snapend
