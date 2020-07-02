@@ -688,7 +688,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @ulend
 
 ---
-@snap[span-100 text-07]
+@snap[span-100 text-06]
 ## Challenges (Dynamic Ecosystem) 
 @snapend
 
