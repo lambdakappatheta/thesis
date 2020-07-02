@@ -1,5 +1,5 @@
 fn main() {
-    counter::one::counter();
+    counter::danger::count();
 }
 
 /*
