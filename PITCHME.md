@@ -269,7 +269,6 @@ Write an essay, clean your place and bake a cake.
 - @css[text-green](Task 2.3: clean the basement)
 - @css[text-green](Task 2.4: clean the attic)
 @ulend
-
 @ul[list-no-bullets span-70 text-08]
 - @css[text-blue](Task 3.1: buy the ingredients)
 - @css[text-blue](Task 3.2: prepare the cake)
