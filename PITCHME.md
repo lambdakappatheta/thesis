@@ -226,7 +226,7 @@ Rust is about one magnitude **slower** than GO
 ![IMAGE](assets/img/MapReduce.png)
 
 ---
-![IMAGE](assets/img/ConcurrencyIsNotParallelism/s22.jpg)
+![IMAGE](assets/img/ConcurrencyIsNotParallelism/s27.jpg)
 
 ---
 ## Let's get realistic
