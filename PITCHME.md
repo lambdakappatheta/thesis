@@ -334,8 +334,7 @@ Write an essay, clean your place and bake a cake.
 
 ---
 ## GO
-![go-cpu](assets/img/cpu/go-cpu2.jpg)
-
+![go-cpu](assets/img/cpu/go-cpu.jpg)
 
 ---
 ## Rust (thread)
