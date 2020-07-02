@@ -678,18 +678,18 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 
 ---
 ## Challenges (Duplicate Code) 
-@css[fragment](executor: async-std, channel: async-std <br> executor: async-std, channel: tokio    )
-@ul
-- @css[text-09](Duplicate Code)
-  - @css[text-08](executor: async-std, channel: async-std)
-  - @css[text-08](executor: async-std, channel: tokio)
-  - @css[text-08](remove duplicate code without affecting the benchmarks)
 
-- @css[text-09]()
+@ul
+  - executor: async-std, channel: async-std
+  - executor: async-std, channel: tokio
+  - remove duplicate code without affecting the benchmarks
 @ulend
 
-Dynamic ecosystem
+---
+## Challenges (Dynamic Ecosystem) 
+
   
+---
 ## Axes
 
 @css[fragment](executor)
