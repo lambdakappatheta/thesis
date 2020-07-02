@@ -349,7 +349,7 @@ Trade-off
 @css[fragment](twice as many workers ?= doubled throughput)
 
 ---
-snap[text-10]
+@snap[text-10]
 ## Concurrency without Parallelism
 @snapend
 
