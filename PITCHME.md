@@ -343,7 +343,7 @@ CPU usage looks the same
 Trade-off:
 
 @css[fragment](Cost for Synchronisation)
-
+@css[fragment](vs )
 @css[fragment](Gain from Parallelism)
 
 @css[fragment](twice as many workers ?= doubled throughput)
