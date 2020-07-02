@@ -246,13 +246,7 @@ One worker per task?!
 @css[fragment](In the meanwhile?)
 
 ---
-Concurrency revisited
-
-We said concurrency is about structure and that a well designed concurrent system can make heavy use of available hardware parallelism in order to improve performance dramatically.
-
-But, concurrent structure can also be extremely beneficiary on single core CPU's.
-
-How is that?
+## Concurrency without parallelism
 
 ---
 Concurrency revisited
