@@ -739,7 +739,28 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ---
 ## Sources
 
-@ul[](fasle)
+@ul[list-no-bullets text-07](fasle)
+- Concurrent Prime Sieve (GO)
+- https://play.golang.org/p/9U22NfrXeq
+- A Tour of Go
+- https://tour.golang.org/list
+- Rob Pike's talk: "Concurrency is not parallelism"
+- https://blog.golang.org/waza-talk
+- The Rust Programming Language
+- https://doc.rust-lang.org/book/
+- Asynchronous Programming in Rust
+- https://rust-lang.github.io/async-book/
+- Inside Rust's Async Transform
+- https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html
+- MapReduce
+- https://www.oreilly.com/library/view/distributed-computing-in/9781787126992/5fef6ce5-20d7-4d7c-93eb-7e669d48c2b4.xhtml
+@ulend
+
+---
+
+
+
+@ul[list-no-bullets](fasle)
 - Concurrent Prime Sieve (GO) https://play.golang.org/p/9U22NfrXeq
 - A Tour of Go https://tour.golang.org/list
 - Rob Pike's talk: "Concurrency is not parallelism" https://blog.golang.org/waza-talk
@@ -748,10 +769,6 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 - Inside Rust's Async Transform https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html
 - MapReduce https://www.oreilly.com/library/view/distributed-computing-in/9781787126992/5fef6ce5-20d7-4d7c-93eb-7e669d48c2b4.xhtml
 @ulend
-
-
-
-
 
 
 
