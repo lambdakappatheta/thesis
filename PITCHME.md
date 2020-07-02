@@ -345,6 +345,11 @@ Write an essay, clean your place and bake a cake.
 ![rust-task-cpu](assets/img/cpu/rust-task-cpu.jpg)
 
 ---
+## Difference
+
+OS scheduler vs async-std's executor 
+
+---
 ## Parallelism
 
 @css[text-12](Pro: Throughput)
