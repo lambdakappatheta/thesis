@@ -360,7 +360,7 @@ With only a handful of threads, the concurrent sieve might benefit more from les
 ## Concurrency without Parallelism
 @snapend
 
-Visual simulation of the concurrent sieve
+@css[text-12](Visual simulation of the concurrent sieve)
 
 ---?code=rust/async-await-sieve/src/lib.rs&lang=rust
 @snap[north-east]
