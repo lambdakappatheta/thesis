@@ -728,6 +728,7 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 @[15-16]
 @[17]
 
+
 ---?code=synchronization/counter/src/one.rs&lang=rust
 @snap[north-east]
 ## Rust
