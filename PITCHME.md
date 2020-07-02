@@ -660,13 +660,14 @@ fn foo() -> impl Future<Output = Vec<i32>> {
 ## Challenges
 
 @ul
-- Benchmarking
-  - correctness
-  - extremely time consuming (especially the longer ones)
-- Duplicate Code
-  - executor: async-std, channel: async-std
-  - executor: async-std, channel: tokio
-  - remove duplicate code without affecting the benchmarks
+- @css[text-09](Benchmarking)
+  - @css[text-08](correctness)
+  - @css[text-08](extremely time consuming (especially the longer ones))
+
+- @css[text-09](Duplicate Code)
+  - @css[text-08](executor: async-std, channel: async-std)
+  - @css[text-08](executor: async-std, channel: tokio)
+  - @css[text-08](remove duplicate code without affecting the benchmarks)
 @ulend
 
   
