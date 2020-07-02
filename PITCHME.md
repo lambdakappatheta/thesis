@@ -333,9 +333,9 @@ CPU usage looks the same
 ---
 ## Parallelism
 
-pro: throughput
+Pro: Throughput
 
-con: synchronisation
+Con: Synchronisation
 
 ---
 Synchronisation is expensive
