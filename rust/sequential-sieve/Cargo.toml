@@ -1,5 +1,5 @@
 [package]
-name = "thread-sieve"
+name = "sequential-sieve"
 version = "0.1.0"
 authors = ["LambdaKappaTheta <lambdakappatheta@gmail.com>"]
 edition = "2018"

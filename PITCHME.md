@@ -99,7 +99,7 @@
 ## Sieve of Eratosthenes
 ![seq25](assets/img/seq/seq25.png)
 
----?code=rust/sequential/src/lib.rs&lang=rust
+---?code=rust/sequential-sieve/src/lib.rs&lang=rust
 @snap[north-east]
 ## Rust
 @snapend
@@ -125,7 +125,7 @@
 @img[fragment](assets/img/concurrent/concurrent_2-3-5-7-before.png)
 @img[fragment](assets/img/concurrent/concurrent_2-3-5-7-after.png)
 
----?code=go-sieve.go&lang=go
+---?code=go/sieve.go&lang=go
 @snap[north-east]
 ## GO
 @snapend
